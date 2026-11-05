@@ -1,0 +1,67 @@
+{
+  "seed": 2024,
+  "employees": 1500,
+  "exits": 588,
+  "active": 912,
+  "train_n": 970,
+  "test_n": 334,
+  "train_landmark": "2023-01-01",
+  "test_landmark": "2024-01-01",
+  "selected_model": "Random forest",
+  "selection_rule": "Average precision validation 2023, sebelum evaluasi test 2024",
+  "models": {
+    "Logistic regression": {
+      "validation_ap": 0.2930404007351123,
+      "auc": 0.6915064102564104,
+      "average_precision": 0.4720088246179097,
+      "brier": 0.1608530816343518,
+      "prevalence": 0.23353293413173654,
+      "confusion_matrix": [
+        [
+          248,
+          8
+        ],
+        [
+          66,
+          12
+        ]
+      ]
+    },
+    "Random forest": {
+      "validation_ap": 0.29515079143470513,
+      "auc": 0.6794871794871795,
+      "average_precision": 0.47200669233937587,
+      "brier": 0.16618701008916553,
+      "prevalence": 0.23353293413173654,
+      "confusion_matrix": [
+        [
+          256,
+          0
+        ],
+        [
+          78,
+          0
+        ]
+      ]
+    }
+  },
+  "survival": {
+    "logrank_p": {
+      "department": 6.48970595002007e-05,
+      "overtime": 1.030655945490471e-14
+    },
+    "concordance": 0.6779319949486008,
+    "ph_min_p": 0.24418053892655486,
+    "ph_rejections_bonferroni": 0
+  },
+  "costs": {
+    "assumed_salary_months": 6,
+    "total_turnover_cost": 30460236000.0,
+    "year_2024_cost": 11502582000.0,
+    "highest_department": "Penjualan",
+    "highest_rate": 0.29853181076672103,
+    "targeted_exits": 65,
+    "relative_reduction": 0.2,
+    "scenario_saving": 614888400.0
+  }
+}
