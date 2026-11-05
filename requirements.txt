@@ -1,0 +1,16 @@
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.8.0
+lifelines==0.30.3
+matplotlib==3.10.8
+plotly==6.5.2
+streamlit==1.53.1
+joblib==1.5.3
+tabulate==0.9.0
+nbformat==5.10.4
+nbconvert==7.16.6
+nbclient==0.10.4
+ipykernel==7.1.0
+pytest==9.0.2
+ruff==0.14.14
