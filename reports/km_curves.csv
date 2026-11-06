@@ -1,0 +1,2181 @@
+grouping,group,day,survival
+department,Keuangan,0.0,1.0
+department,Keuangan,13.0,0.9950000000000002
+department,Keuangan,17.0,0.9900000000000003
+department,Keuangan,23.0,0.9850000000000003
+department,Keuangan,28.0,0.98
+department,Keuangan,39.0,0.9750000000000003
+department,Keuangan,53.0,0.9700000000000004
+department,Keuangan,68.0,0.9650000000000004
+department,Keuangan,81.0,0.9600000000000003
+department,Keuangan,96.0,0.9550000000000004
+department,Keuangan,99.0,0.9500000000000004
+department,Keuangan,119.0,0.9450000000000005
+department,Keuangan,132.0,0.9400000000000004
+department,Keuangan,137.0,0.9350000000000005
+department,Keuangan,162.0,0.9249999999999999
+department,Keuangan,184.0,0.9200000000000006
+department,Keuangan,198.0,0.9150000000000007
+department,Keuangan,206.0,0.9100000000000001
+department,Keuangan,233.0,0.9050000000000006
+department,Keuangan,251.0,0.9000000000000004
+department,Keuangan,254.0,0.8950000000000002
+department,Keuangan,255.0,0.8900000000000002
+department,Keuangan,262.0,0.885
+department,Keuangan,311.0,0.8799999999999999
+department,Keuangan,327.0,0.8750000000000007
+department,Keuangan,350.0,0.8700000000000003
+department,Keuangan,379.0,0.8650000000000007
+department,Keuangan,380.0,0.8600000000000001
+department,Keuangan,395.0,0.8550000000000006
+department,Keuangan,401.0,0.8500000000000005
+department,Keuangan,413.0,0.8450000000000003
+department,Keuangan,420.0,0.8400000000000002
+department,Keuangan,449.0,0.8350000000000005
+department,Keuangan,472.0,0.8250000000000001
+department,Keuangan,521.0,0.8200000000000005
+department,Keuangan,528.0,0.8150000000000003
+department,Keuangan,584.0,0.8099999999999999
+department,Keuangan,585.0,0.8050000000000004
+department,Keuangan,596.0,0.8
+department,Keuangan,608.0,0.7950000000000003
+department,Keuangan,620.0,0.7900000000000004
+department,Keuangan,629.0,0.785
+department,Keuangan,643.0,0.7800000000000004
+department,Keuangan,654.0,0.7750000000000004
+department,Keuangan,697.0,0.7700000000000006
+department,Keuangan,734.0,0.7700000000000006
+department,Keuangan,736.0,0.7700000000000006
+department,Keuangan,738.0,0.7700000000000006
+department,Keuangan,739.0,0.7648666666666675
+department,Keuangan,741.0,0.7597333333333338
+department,Keuangan,744.0,0.7597333333333338
+department,Keuangan,746.0,0.75456507936508
+department,Keuangan,747.0,0.75456507936508
+department,Keuangan,749.0,0.75456507936508
+department,Keuangan,751.0,0.75456507936508
+department,Keuangan,752.0,0.749251240778002
+department,Keuangan,754.0,0.749251240778002
+department,Keuangan,755.0,0.749251240778002
+department,Keuangan,756.0,0.749251240778002
+department,Keuangan,763.0,0.749251240778002
+department,Keuangan,771.0,0.749251240778002
+department,Keuangan,772.0,0.749251240778002
+department,Keuangan,775.0,0.749251240778002
+department,Keuangan,776.0,0.749251240778002
+department,Keuangan,777.0,0.749251240778002
+department,Keuangan,781.0,0.749251240778002
+department,Keuangan,782.0,0.749251240778002
+department,Keuangan,783.0,0.7433977154594239
+department,Keuangan,785.0,0.7375441901408458
+department,Keuangan,786.0,0.7375441901408458
+department,Keuangan,789.0,0.7375441901408458
+department,Keuangan,791.0,0.7375441901408458
+department,Keuangan,792.0,0.7375441901408458
+department,Keuangan,793.0,0.7375441901408458
+department,Keuangan,795.0,0.7375441901408458
+department,Keuangan,803.0,0.7375441901408458
+department,Keuangan,808.0,0.7375441901408458
+department,Keuangan,810.0,0.7375441901408458
+department,Keuangan,814.0,0.7311860505706663
+department,Keuangan,817.0,0.7311860505706663
+department,Keuangan,820.0,0.7311860505706663
+department,Keuangan,827.0,0.7311860505706663
+department,Keuangan,831.0,0.7311860505706663
+department,Keuangan,832.0,0.7311860505706663
+department,Keuangan,838.0,0.7244158093616783
+department,Keuangan,840.0,0.7244158093616783
+department,Keuangan,841.0,0.7244158093616783
+department,Keuangan,843.0,0.7244158093616783
+department,Keuangan,854.0,0.7244158093616783
+department,Keuangan,856.0,0.7244158093616783
+department,Keuangan,864.0,0.7244158093616783
+department,Keuangan,867.0,0.7244158093616783
+department,Keuangan,873.0,0.7244158093616783
+department,Keuangan,874.0,0.7244158093616783
+department,Keuangan,879.0,0.7244158093616783
+department,Keuangan,880.0,0.7244158093616783
+department,Keuangan,885.0,0.71679037978945
+department,Keuangan,886.0,0.71679037978945
+department,Keuangan,889.0,0.71679037978945
+department,Keuangan,890.0,0.71679037978945
+department,Keuangan,891.0,0.71679037978945
+department,Keuangan,897.0,0.71679037978945
+department,Keuangan,900.0,0.71679037978945
+department,Keuangan,902.0,0.71679037978945
+department,Keuangan,907.0,0.71679037978945
+department,Keuangan,908.0,0.71679037978945
+department,Keuangan,911.0,0.71679037978945
+department,Keuangan,912.0,0.71679037978945
+department,Keuangan,914.0,0.7076007595357394
+department,Keuangan,919.0,0.6984111392820282
+department,Keuangan,922.0,0.6892215190283172
+department,Keuangan,923.0,0.6892215190283172
+department,Keuangan,924.0,0.6892215190283172
+department,Keuangan,925.0,0.6796489979307017
+department,Keuangan,926.0,0.6796489979307017
+department,Keuangan,928.0,0.6796489979307017
+department,Keuangan,930.0,0.6796489979307017
+department,Keuangan,933.0,0.6796489979307017
+department,Keuangan,935.0,0.6796489979307017
+department,Keuangan,941.0,0.6796489979307017
+department,Keuangan,942.0,0.6796489979307017
+department,Keuangan,950.0,0.6796489979307017
+department,Keuangan,951.0,0.6796489979307017
+department,Keuangan,954.0,0.6796489979307017
+department,Keuangan,956.0,0.6796489979307017
+department,Keuangan,957.0,0.6796489979307017
+department,Keuangan,960.0,0.6796489979307017
+department,Keuangan,961.0,0.6796489979307017
+department,Keuangan,965.0,0.6796489979307017
+department,Keuangan,969.0,0.6796489979307017
+department,Keuangan,972.0,0.6796489979307017
+department,Keuangan,979.0,0.6665788248935727
+department,Keuangan,980.0,0.6665788248935727
+department,Keuangan,982.0,0.6665788248935727
+department,Keuangan,984.0,0.6665788248935727
+department,Keuangan,986.0,0.6665788248935727
+department,Keuangan,1000.0,0.6665788248935727
+department,Keuangan,1001.0,0.6665788248935727
+department,Keuangan,1004.0,0.6665788248935727
+department,Keuangan,1008.0,0.6665788248935727
+department,Keuangan,1011.0,0.6665788248935727
+department,Keuangan,1012.0,0.6665788248935727
+department,Keuangan,1013.0,0.6665788248935727
+department,Keuangan,1017.0,0.6665788248935727
+department,Keuangan,1018.0,0.6665788248935727
+department,Keuangan,1023.0,0.6665788248935727
+department,Keuangan,1024.0,0.6665788248935727
+department,Keuangan,1025.0,0.6665788248935727
+department,Keuangan,1026.0,0.6665788248935727
+department,Keuangan,1027.0,0.6665788248935727
+department,Keuangan,1030.0,0.6665788248935727
+department,Keuangan,1031.0,0.6665788248935727
+department,Keuangan,1032.0,0.6665788248935727
+department,Keuangan,1035.0,0.6665788248935727
+department,Keuangan,1036.0,0.6665788248935727
+department,Keuangan,1039.0,0.6665788248935727
+department,Keuangan,1041.0,0.6665788248935727
+department,Keuangan,1050.0,0.6665788248935727
+department,Keuangan,1059.0,0.6665788248935727
+department,Keuangan,1061.0,0.6665788248935727
+department,Keuangan,1066.0,0.6665788248935727
+department,Keuangan,1067.0,0.618966051686889
+department,Keuangan,1068.0,0.618966051686889
+department,Keuangan,1069.0,0.618966051686889
+department,Keuangan,1078.0,0.618966051686889
+department,Keuangan,1081.0,0.618966051686889
+department,Keuangan,1082.0,0.618966051686889
+department,Keuangan,1086.0,0.618966051686889
+department,Keuangan,1090.0,0.618966051686889
+department,Keuangan,1091.0,0.618966051686889
+department,Keuangan,1095.0,0.618966051686889
+department,Operasional,0.0,1.0
+department,Operasional,7.0,0.9980158730158729
+department,Operasional,14.0,0.9960317460317456
+department,Operasional,17.0,0.9940476190476186
+department,Operasional,23.0,0.9920634920634915
+department,Operasional,25.0,0.990079365079365
+department,Operasional,26.0,0.9880952380952378
+department,Operasional,29.0,0.9861111111111112
+department,Operasional,32.0,0.9841269841269844
+department,Operasional,35.0,0.982142857142857
+department,Operasional,40.0,0.9801587301587303
+department,Operasional,46.0,0.9781746031746028
+department,Operasional,61.0,0.9761904761904758
+department,Operasional,66.0,0.9742063492063489
+department,Operasional,68.0,0.9722222222222217
+department,Operasional,71.0,0.9682539682539685
+department,Operasional,72.0,0.9662698412698411
+department,Operasional,79.0,0.964285714285714
+department,Operasional,80.0,0.9623015873015873
+department,Operasional,82.0,0.9603174603174606
+department,Operasional,83.0,0.9563492063492061
+department,Operasional,91.0,0.9543650793650791
+department,Operasional,98.0,0.9523809523809522
+department,Operasional,101.0,0.9503968253968249
+department,Operasional,107.0,0.9484126984126987
+department,Operasional,111.0,0.9464285714285716
+department,Operasional,112.0,0.9444444444444446
+department,Operasional,117.0,0.9424603174603173
+department,Operasional,119.0,0.9404761904761907
+department,Operasional,121.0,0.938492063492063
+department,Operasional,123.0,0.9365079365079361
+department,Operasional,127.0,0.9345238095238093
+department,Operasional,130.0,0.9325396825396824
+department,Operasional,131.0,0.9305555555555552
+department,Operasional,132.0,0.9285714285714287
+department,Operasional,135.0,0.9265873015873016
+department,Operasional,141.0,0.9246031746031742
+department,Operasional,143.0,0.9226190476190471
+department,Operasional,158.0,0.9206349206349205
+department,Operasional,165.0,0.9186507936507935
+department,Operasional,177.0,0.9166666666666663
+department,Operasional,179.0,0.9146825396825397
+department,Operasional,191.0,0.9126984126984128
+department,Operasional,196.0,0.9107142857142857
+department,Operasional,198.0,0.9087301587301589
+department,Operasional,199.0,0.906746031746032
+department,Operasional,200.0,0.904761904761905
+department,Operasional,221.0,0.9027777777777775
+department,Operasional,222.0,0.898809523809524
+department,Operasional,223.0,0.8968253968253971
+department,Operasional,224.0,0.89484126984127
+department,Operasional,226.0,0.8928571428571428
+department,Operasional,227.0,0.8908730158730159
+department,Operasional,233.0,0.8888888888888886
+department,Operasional,239.0,0.8869047619047621
+department,Operasional,241.0,0.884920634920635
+department,Operasional,244.0,0.8829365079365077
+department,Operasional,246.0,0.8809523809523807
+department,Operasional,248.0,0.8789682539682538
+department,Operasional,251.0,0.8769841269841266
+department,Operasional,262.0,0.8749999999999999
+department,Operasional,263.0,0.8730158730158726
+department,Operasional,272.0,0.871031746031746
+department,Operasional,274.0,0.8670634920634918
+department,Operasional,280.0,0.8650793650793649
+department,Operasional,283.0,0.863095238095238
+department,Operasional,288.0,0.8611111111111112
+department,Operasional,293.0,0.8591269841269839
+department,Operasional,304.0,0.8571428571428573
+department,Operasional,305.0,0.8551587301587297
+department,Operasional,310.0,0.8531746031746028
+department,Operasional,312.0,0.851190476190476
+department,Operasional,318.0,0.8492063492063489
+department,Operasional,319.0,0.8472222222222223
+department,Operasional,320.0,0.8452380952380955
+department,Operasional,322.0,0.8432539682539684
+department,Operasional,338.0,0.8412698412698411
+department,Operasional,339.0,0.8392857142857139
+department,Operasional,341.0,0.8373015873015873
+department,Operasional,345.0,0.8353174603174599
+department,Operasional,349.0,0.8333333333333331
+department,Operasional,350.0,0.831349206349206
+department,Operasional,353.0,0.8293650793650793
+department,Operasional,358.0,0.8253968253968252
+department,Operasional,361.0,0.8234126984126979
+department,Operasional,364.0,0.8214285714285712
+department,Operasional,365.0,0.8194444444444446
+department,Operasional,371.0,0.8174603174603176
+department,Operasional,372.0,0.81547619047619
+department,Operasional,376.0,0.8134920634920637
+department,Operasional,377.0,0.8115079365079367
+department,Operasional,388.0,0.8095238095238092
+department,Operasional,390.0,0.8075396825396821
+department,Operasional,396.0,0.8055555555555554
+department,Operasional,406.0,0.8035714285714282
+department,Operasional,409.0,0.8015873015873017
+department,Operasional,415.0,0.7976190476190476
+department,Operasional,420.0,0.7956349206349206
+department,Operasional,424.0,0.7916666666666667
+department,Operasional,425.0,0.7896825396825395
+department,Operasional,438.0,0.7876984126984128
+department,Operasional,439.0,0.7837301587301587
+department,Operasional,452.0,0.7817460317460316
+department,Operasional,466.0,0.7777777777777775
+department,Operasional,470.0,0.7757936507936507
+department,Operasional,472.0,0.7738095238095237
+department,Operasional,481.0,0.7718253968253964
+department,Operasional,482.0,0.7698412698412699
+department,Operasional,491.0,0.7678571428571428
+department,Operasional,492.0,0.7658730158730158
+department,Operasional,495.0,0.7619047619047619
+department,Operasional,496.0,0.7599206349206346
+department,Operasional,497.0,0.7579365079365079
+department,Operasional,502.0,0.755952380952381
+department,Operasional,503.0,0.753968253968254
+department,Operasional,509.0,0.7519841269841269
+department,Operasional,512.0,0.7500000000000001
+department,Operasional,520.0,0.748015873015873
+department,Operasional,522.0,0.746031746031746
+department,Operasional,523.0,0.7440476190476188
+department,Operasional,525.0,0.7420634920634922
+department,Operasional,529.0,0.7400793650793652
+department,Operasional,537.0,0.7380952380952377
+department,Operasional,542.0,0.7361111111111108
+department,Operasional,544.0,0.7341269841269837
+department,Operasional,551.0,0.732142857142857
+department,Operasional,554.0,0.7301587301587303
+department,Operasional,557.0,0.7281746031746034
+department,Operasional,567.0,0.7242063492063491
+department,Operasional,570.0,0.7202380952380949
+department,Operasional,576.0,0.7182539682539685
+department,Operasional,577.0,0.7162698412698408
+department,Operasional,581.0,0.7142857142857143
+department,Operasional,582.0,0.712301587301587
+department,Operasional,583.0,0.7103174603174602
+department,Operasional,585.0,0.7063492063492063
+department,Operasional,586.0,0.7043650793650794
+department,Operasional,589.0,0.7023809523809521
+department,Operasional,590.0,0.7003968253968251
+department,Operasional,591.0,0.698412698412698
+department,Operasional,596.0,0.6964285714285711
+department,Operasional,598.0,0.6944444444444441
+department,Operasional,599.0,0.6924603174603172
+department,Operasional,604.0,0.6884920634920635
+department,Operasional,605.0,0.6865079365079367
+department,Operasional,606.0,0.6845238095238098
+department,Operasional,618.0,0.6825396825396823
+department,Operasional,625.0,0.6805555555555551
+department,Operasional,646.0,0.6785714285714282
+department,Operasional,659.0,0.6765873015873016
+department,Operasional,661.0,0.6746031746031748
+department,Operasional,662.0,0.6726190476190473
+department,Operasional,667.0,0.6706349206349206
+department,Operasional,671.0,0.6686507936507935
+department,Operasional,673.0,0.6666666666666665
+department,Operasional,689.0,0.6646825396825394
+department,Operasional,690.0,0.6626984126984129
+department,Operasional,691.0,0.6607142857142857
+department,Operasional,693.0,0.6587301587301584
+department,Operasional,698.0,0.6567460317460316
+department,Operasional,704.0,0.6547619047619045
+department,Operasional,719.0,0.6527777777777777
+department,Operasional,723.0,0.6507936507936509
+department,Operasional,726.0,0.6488095238095237
+department,Operasional,731.0,0.6468253968253967
+department,Operasional,732.0,0.6468253968253967
+department,Operasional,733.0,0.6468253968253967
+department,Operasional,735.0,0.6428078477767916
+department,Operasional,736.0,0.6428078477767916
+department,Operasional,738.0,0.6428078477767916
+department,Operasional,741.0,0.6407736457268649
+department,Operasional,742.0,0.6407736457268649
+department,Operasional,743.0,0.6407736457268649
+department,Operasional,745.0,0.6407736457268649
+department,Operasional,746.0,0.6407736457268649
+department,Operasional,748.0,0.6407736457268649
+department,Operasional,749.0,0.6407736457268649
+department,Operasional,750.0,0.6407736457268649
+department,Operasional,752.0,0.6407736457268649
+department,Operasional,753.0,0.6407736457268649
+department,Operasional,756.0,0.6386448296281046
+department,Operasional,758.0,0.6365088937430606
+department,Operasional,759.0,0.6365088937430606
+department,Operasional,760.0,0.6365088937430606
+department,Operasional,761.0,0.632164123137306
+department,Operasional,762.0,0.632164123137306
+department,Operasional,763.0,0.632164123137306
+department,Operasional,765.0,0.632164123137306
+department,Operasional,767.0,0.632164123137306
+department,Operasional,768.0,0.632164123137306
+department,Operasional,770.0,0.632164123137306
+department,Operasional,771.0,0.632164123137306
+department,Operasional,772.0,0.632164123137306
+department,Operasional,775.0,0.632164123137306
+department,Operasional,776.0,0.632164123137306
+department,Operasional,777.0,0.632164123137306
+department,Operasional,778.0,0.632164123137306
+department,Operasional,779.0,0.632164123137306
+department,Operasional,780.0,0.632164123137306
+department,Operasional,781.0,0.62983141419584
+department,Operasional,782.0,0.62983141419584
+department,Operasional,784.0,0.62983141419584
+department,Operasional,786.0,0.62983141419584
+department,Operasional,788.0,0.62983141419584
+department,Operasional,789.0,0.62983141419584
+department,Operasional,790.0,0.62983141419584
+department,Operasional,791.0,0.62983141419584
+department,Operasional,792.0,0.62983141419584
+department,Operasional,793.0,0.62983141419584
+department,Operasional,795.0,0.6249300024122143
+department,Operasional,800.0,0.6249300024122143
+department,Operasional,801.0,0.6249300024122143
+department,Operasional,804.0,0.6249300024122143
+department,Operasional,805.0,0.6224302824025656
+department,Operasional,810.0,0.6199204828767487
+department,Operasional,811.0,0.6199204828767487
+department,Operasional,812.0,0.6173693697784909
+department,Operasional,814.0,0.6173693697784909
+department,Operasional,815.0,0.6173693697784909
+department,Operasional,816.0,0.6173693697784909
+department,Operasional,818.0,0.6147862343400872
+department,Operasional,821.0,0.6147862343400872
+department,Operasional,822.0,0.6147862343400872
+department,Operasional,823.0,0.6147862343400872
+department,Operasional,824.0,0.6147862343400872
+department,Operasional,825.0,0.612101578294934
+department,Operasional,826.0,0.6094169222497806
+department,Operasional,827.0,0.6094169222497806
+department,Operasional,828.0,0.6094169222497806
+department,Operasional,829.0,0.6094169222497806
+department,Operasional,830.0,0.6066841109392433
+department,Operasional,831.0,0.6066841109392433
+department,Operasional,832.0,0.6066841109392433
+department,Operasional,835.0,0.6011182016645717
+department,Operasional,836.0,0.6011182016645717
+department,Operasional,837.0,0.6011182016645717
+department,Operasional,838.0,0.6011182016645717
+department,Operasional,839.0,0.6011182016645717
+department,Operasional,840.0,0.6011182016645717
+department,Operasional,842.0,0.6011182016645717
+department,Operasional,844.0,0.6011182016645717
+department,Operasional,845.0,0.5981859177540124
+department,Operasional,847.0,0.5981859177540124
+department,Operasional,850.0,0.5981859177540124
+department,Operasional,851.0,0.5981859177540124
+department,Operasional,852.0,0.5951647767552548
+department,Operasional,853.0,0.5921126496949716
+department,Operasional,856.0,0.5921126496949716
+department,Operasional,857.0,0.5890447085048421
+department,Operasional,859.0,0.5890447085048421
+department,Operasional,861.0,0.5890447085048421
+department,Operasional,863.0,0.5890447085048421
+department,Operasional,864.0,0.585911491970242
+department,Operasional,865.0,0.585911491970242
+department,Operasional,871.0,0.585911491970242
+department,Operasional,873.0,0.585911491970242
+department,Operasional,875.0,0.585911491970242
+department,Operasional,876.0,0.585911491970242
+department,Operasional,877.0,0.5826198543749034
+department,Operasional,878.0,0.5826198543749034
+department,Operasional,886.0,0.579232529640166
+department,Operasional,887.0,0.579232529640166
+department,Operasional,888.0,0.5758051182221768
+department,Operasional,889.0,0.5758051182221768
+department,Operasional,891.0,0.5758051182221768
+department,Operasional,892.0,0.5758051182221768
+department,Operasional,894.0,0.5758051182221768
+department,Operasional,896.0,0.5758051182221768
+department,Operasional,898.0,0.5758051182221768
+department,Operasional,901.0,0.5758051182221768
+department,Operasional,902.0,0.5758051182221768
+department,Operasional,904.0,0.5758051182221768
+department,Operasional,906.0,0.5758051182221768
+department,Operasional,908.0,0.5758051182221768
+department,Operasional,909.0,0.5758051182221768
+department,Operasional,910.0,0.5758051182221768
+department,Operasional,911.0,0.5758051182221768
+department,Operasional,912.0,0.5758051182221768
+department,Operasional,914.0,0.5758051182221768
+department,Operasional,915.0,0.5758051182221768
+department,Operasional,916.0,0.5758051182221768
+department,Operasional,918.0,0.5758051182221768
+department,Operasional,920.0,0.5758051182221768
+department,Operasional,921.0,0.5758051182221768
+department,Operasional,922.0,0.5758051182221768
+department,Operasional,924.0,0.5758051182221768
+department,Operasional,927.0,0.5758051182221768
+department,Operasional,929.0,0.5758051182221768
+department,Operasional,931.0,0.5714757564310324
+department,Operasional,935.0,0.5714757564310324
+department,Operasional,938.0,0.5670797890738707
+department,Operasional,940.0,0.5670797890738707
+department,Operasional,942.0,0.5670797890738707
+department,Operasional,943.0,0.5670797890738707
+department,Operasional,944.0,0.5670797890738707
+department,Operasional,945.0,0.5624693842846527
+department,Operasional,947.0,0.5624693842846527
+department,Operasional,948.0,0.5624693842846527
+department,Operasional,950.0,0.5577026945873249
+department,Operasional,954.0,0.5577026945873249
+department,Operasional,955.0,0.5528531059387396
+department,Operasional,956.0,0.5480035172901542
+department,Operasional,957.0,0.5480035172901542
+department,Operasional,958.0,0.5480035172901542
+department,Operasional,960.0,0.5480035172901542
+department,Operasional,961.0,0.5480035172901542
+department,Operasional,965.0,0.5480035172901542
+department,Operasional,966.0,0.5428336727874168
+department,Operasional,967.0,0.5428336727874168
+department,Operasional,968.0,0.5428336727874168
+department,Operasional,970.0,0.5428336727874168
+department,Operasional,971.0,0.5428336727874168
+department,Operasional,973.0,0.5428336727874168
+department,Operasional,975.0,0.5428336727874168
+department,Operasional,976.0,0.537058846481168
+department,Operasional,978.0,0.537058846481168
+department,Operasional,980.0,0.537058846481168
+department,Operasional,982.0,0.537058846481168
+department,Operasional,985.0,0.537058846481168
+department,Operasional,987.0,0.537058846481168
+department,Operasional,989.0,0.537058846481168
+department,Operasional,990.0,0.537058846481168
+department,Operasional,991.0,0.537058846481168
+department,Operasional,993.0,0.537058846481168
+department,Operasional,995.0,0.537058846481168
+department,Operasional,997.0,0.537058846481168
+department,Operasional,998.0,0.537058846481168
+department,Operasional,999.0,0.537058846481168
+department,Operasional,1001.0,0.537058846481168
+department,Operasional,1002.0,0.537058846481168
+department,Operasional,1005.0,0.537058846481168
+department,Operasional,1006.0,0.5295996958355962
+department,Operasional,1009.0,0.5295996958355962
+department,Operasional,1011.0,0.5295996958355962
+department,Operasional,1012.0,0.5295996958355962
+department,Operasional,1013.0,0.5295996958355962
+department,Operasional,1014.0,0.5295996958355962
+department,Operasional,1015.0,0.5295996958355962
+department,Operasional,1016.0,0.5295996958355962
+department,Operasional,1017.0,0.5295996958355962
+department,Operasional,1018.0,0.5295996958355962
+department,Operasional,1019.0,0.5295996958355962
+department,Operasional,1020.0,0.5295996958355962
+department,Operasional,1021.0,0.5295996958355962
+department,Operasional,1024.0,0.5295996958355962
+department,Operasional,1026.0,0.5295996958355962
+department,Operasional,1029.0,0.5295996958355962
+department,Operasional,1032.0,0.5295996958355962
+department,Operasional,1033.0,0.5190077019188842
+department,Operasional,1035.0,0.5190077019188842
+department,Operasional,1036.0,0.5190077019188842
+department,Operasional,1037.0,0.5190077019188842
+department,Operasional,1038.0,0.5190077019188842
+department,Operasional,1039.0,0.5190077019188842
+department,Operasional,1040.0,0.5190077019188842
+department,Operasional,1043.0,0.5190077019188842
+department,Operasional,1044.0,0.5190077019188842
+department,Operasional,1046.0,0.5190077019188842
+department,Operasional,1047.0,0.5190077019188842
+department,Operasional,1049.0,0.5190077019188842
+department,Operasional,1052.0,0.5190077019188842
+department,Operasional,1053.0,0.5190077019188842
+department,Operasional,1054.0,0.5190077019188842
+department,Operasional,1055.0,0.5190077019188842
+department,Operasional,1056.0,0.5190077019188842
+department,Operasional,1057.0,0.5190077019188842
+department,Operasional,1060.0,0.5190077019188842
+department,Operasional,1061.0,0.5190077019188842
+department,Operasional,1062.0,0.5190077019188842
+department,Operasional,1067.0,0.5190077019188842
+department,Operasional,1068.0,0.5190077019188842
+department,Operasional,1071.0,0.5190077019188842
+department,Operasional,1074.0,0.5190077019188842
+department,Operasional,1076.0,0.5190077019188842
+department,Operasional,1078.0,0.5190077019188842
+department,Operasional,1083.0,0.5190077019188842
+department,Operasional,1084.0,0.5190077019188842
+department,Operasional,1085.0,0.5190077019188842
+department,Operasional,1086.0,0.5190077019188842
+department,Operasional,1087.0,0.5190077019188842
+department,Operasional,1089.0,0.5190077019188842
+department,Operasional,1090.0,0.5190077019188842
+department,Operasional,1093.0,0.5190077019188842
+department,Operasional,1095.0,0.5190077019188842
+department,Penjualan,0.0,1.0
+department,Penjualan,6.0,0.9971910112359552
+department,Penjualan,8.0,0.9943820224719099
+department,Penjualan,22.0,0.991573033707865
+department,Penjualan,32.0,0.9887640449438199
+department,Penjualan,47.0,0.9859550561797749
+department,Penjualan,49.0,0.98314606741573
+department,Penjualan,51.0,0.9803370786516853
+department,Penjualan,60.0,0.9775280898876406
+department,Penjualan,68.0,0.9747191011235956
+department,Penjualan,69.0,0.971910112359551
+department,Penjualan,71.0,0.969101123595506
+department,Penjualan,72.0,0.9662921348314605
+department,Penjualan,74.0,0.9634831460674154
+department,Penjualan,77.0,0.9606741573033705
+department,Penjualan,84.0,0.957865168539326
+department,Penjualan,85.0,0.9550561797752813
+department,Penjualan,86.0,0.9522471910112357
+department,Penjualan,93.0,0.9494382022471911
+department,Penjualan,98.0,0.9466292134831459
+department,Penjualan,111.0,0.9438202247191011
+department,Penjualan,113.0,0.941011235955056
+department,Penjualan,116.0,0.9382022471910116
+department,Penjualan,120.0,0.9353932584269664
+department,Penjualan,131.0,0.932584269662921
+department,Penjualan,133.0,0.9297752808988764
+department,Penjualan,138.0,0.9241573033707865
+department,Penjualan,154.0,0.9185393258426967
+department,Penjualan,160.0,0.9157303370786518
+department,Penjualan,167.0,0.9129213483146066
+department,Penjualan,168.0,0.9101123595505615
+department,Penjualan,195.0,0.9073033707865168
+department,Penjualan,197.0,0.9044943820224721
+department,Penjualan,200.0,0.9016853932584269
+department,Penjualan,205.0,0.8988764044943819
+department,Penjualan,215.0,0.8960674157303369
+department,Penjualan,230.0,0.8932584269662922
+department,Penjualan,231.0,0.890449438202247
+department,Penjualan,232.0,0.8848314606741573
+department,Penjualan,241.0,0.8820224719101122
+department,Penjualan,255.0,0.8764044943820226
+department,Penjualan,257.0,0.8735955056179774
+department,Penjualan,260.0,0.8707865168539328
+department,Penjualan,262.0,0.867977528089888
+department,Penjualan,276.0,0.8651685393258424
+department,Penjualan,279.0,0.8623595505617975
+department,Penjualan,285.0,0.8595505617977528
+department,Penjualan,294.0,0.8567415730337081
+department,Penjualan,304.0,0.853932584269663
+department,Penjualan,306.0,0.8511235955056177
+department,Penjualan,309.0,0.8483146067415731
+department,Penjualan,315.0,0.8455056179775278
+department,Penjualan,316.0,0.842696629213483
+department,Penjualan,318.0,0.8398876404494385
+department,Penjualan,326.0,0.8370786516853934
+department,Penjualan,327.0,0.8342696629213485
+department,Penjualan,328.0,0.8314606741573032
+department,Penjualan,329.0,0.8286516853932587
+department,Penjualan,331.0,0.8258426966292134
+department,Penjualan,332.0,0.8230337078651688
+department,Penjualan,340.0,0.8202247191011236
+department,Penjualan,344.0,0.8174157303370789
+department,Penjualan,354.0,0.8146067415730336
+department,Penjualan,358.0,0.8117977528089889
+department,Penjualan,360.0,0.808988764044944
+department,Penjualan,361.0,0.8061797752808991
+department,Penjualan,381.0,0.8033707865168538
+department,Penjualan,382.0,0.8005617977528092
+department,Penjualan,389.0,0.7977528089887642
+department,Penjualan,390.0,0.7949438202247192
+department,Penjualan,402.0,0.7921348314606743
+department,Penjualan,406.0,0.789325842696629
+department,Penjualan,410.0,0.786516853932584
+department,Penjualan,412.0,0.7837078651685392
+department,Penjualan,413.0,0.7808988764044943
+department,Penjualan,423.0,0.7752808988764042
+department,Penjualan,424.0,0.7724719101123598
+department,Penjualan,427.0,0.7696629213483148
+department,Penjualan,434.0,0.7668539325842697
+department,Penjualan,435.0,0.764044943820225
+department,Penjualan,436.0,0.7612359550561799
+department,Penjualan,441.0,0.758426966292135
+department,Penjualan,444.0,0.7556179775280899
+department,Penjualan,445.0,0.7528089887640448
+department,Penjualan,466.0,0.7500000000000001
+department,Penjualan,470.0,0.7471910112359551
+department,Penjualan,474.0,0.7415730337078651
+department,Penjualan,482.0,0.7387640449438204
+department,Penjualan,483.0,0.7359550561797751
+department,Penjualan,486.0,0.7331460674157305
+department,Penjualan,489.0,0.7303370786516853
+department,Penjualan,490.0,0.7275280898876402
+department,Penjualan,499.0,0.7247191011235955
+department,Penjualan,504.0,0.7219101123595508
+department,Penjualan,508.0,0.7162921348314605
+department,Penjualan,511.0,0.7134831460674158
+department,Penjualan,523.0,0.7106741573033709
+department,Penjualan,530.0,0.7078651685393259
+department,Penjualan,533.0,0.7022471910112357
+department,Penjualan,536.0,0.6994382022471909
+department,Penjualan,544.0,0.6966292134831463
+department,Penjualan,545.0,0.6938202247191013
+department,Penjualan,552.0,0.691011235955056
+department,Penjualan,561.0,0.6882022471910115
+department,Penjualan,570.0,0.6853932584269665
+department,Penjualan,573.0,0.6825842696629212
+department,Penjualan,574.0,0.6797752808988766
+department,Penjualan,576.0,0.6769662921348313
+department,Penjualan,585.0,0.6741573033707865
+department,Penjualan,589.0,0.6713483146067418
+department,Penjualan,596.0,0.6685393258426968
+department,Penjualan,598.0,0.6657303370786519
+department,Penjualan,601.0,0.662921348314607
+department,Penjualan,602.0,0.6601123595505618
+department,Penjualan,606.0,0.657303370786517
+department,Penjualan,628.0,0.6544943820224717
+department,Penjualan,639.0,0.6516853932584269
+department,Penjualan,644.0,0.6488764044943819
+department,Penjualan,645.0,0.6460674157303372
+department,Penjualan,648.0,0.6432584269662923
+department,Penjualan,649.0,0.6404494382022474
+department,Penjualan,667.0,0.6376404494382024
+department,Penjualan,670.0,0.6348314606741575
+department,Penjualan,671.0,0.6320224719101124
+department,Penjualan,678.0,0.6292134831460673
+department,Penjualan,679.0,0.6264044943820225
+department,Penjualan,681.0,0.6235955056179775
+department,Penjualan,683.0,0.6207865168539324
+department,Penjualan,689.0,0.6179775280898879
+department,Penjualan,692.0,0.6151685393258428
+department,Penjualan,693.0,0.6123595505617977
+department,Penjualan,716.0,0.6095505617977529
+department,Penjualan,725.0,0.606741573033708
+department,Penjualan,726.0,0.6039325842696627
+department,Penjualan,728.0,0.6011235955056178
+department,Penjualan,732.0,0.6011235955056178
+department,Penjualan,736.0,0.6011235955056178
+department,Penjualan,738.0,0.6011235955056178
+department,Penjualan,742.0,0.6011235955056178
+department,Penjualan,746.0,0.5982055197992799
+department,Penjualan,747.0,0.5982055197992799
+department,Penjualan,748.0,0.5982055197992799
+department,Penjualan,751.0,0.5982055197992799
+department,Penjualan,752.0,0.5952144922002837
+department,Penjualan,755.0,0.5952144922002837
+department,Penjualan,757.0,0.5952144922002837
+department,Penjualan,760.0,0.5952144922002837
+department,Penjualan,762.0,0.5952144922002837
+department,Penjualan,764.0,0.5952144922002837
+department,Penjualan,765.0,0.5920817843465981
+department,Penjualan,767.0,0.5920817843465981
+department,Penjualan,768.0,0.5920817843465981
+department,Penjualan,769.0,0.5920817843465981
+department,Penjualan,770.0,0.5920817843465981
+department,Penjualan,772.0,0.5920817843465981
+department,Penjualan,773.0,0.5920817843465981
+department,Penjualan,775.0,0.5920817843465981
+department,Penjualan,776.0,0.5920817843465981
+department,Penjualan,778.0,0.5920817843465981
+department,Penjualan,779.0,0.5920817843465981
+department,Penjualan,782.0,0.5887366895197811
+department,Penjualan,785.0,0.5887366895197811
+department,Penjualan,786.0,0.5887366895197811
+department,Penjualan,787.0,0.5853335872682213
+department,Penjualan,789.0,0.5853335872682213
+department,Penjualan,790.0,0.5819105838339041
+department,Penjualan,791.0,0.5819105838339041
+department,Penjualan,792.0,0.5784673259413957
+department,Penjualan,794.0,0.5784673259413957
+department,Penjualan,796.0,0.5784673259413957
+department,Penjualan,800.0,0.574961463359933
+department,Penjualan,801.0,0.574961463359933
+department,Penjualan,802.0,0.5714340924190743
+department,Penjualan,803.0,0.5714340924190743
+department,Penjualan,805.0,0.5714340924190743
+department,Penjualan,807.0,0.5714340924190743
+department,Penjualan,808.0,0.5714340924190743
+department,Penjualan,810.0,0.5714340924190743
+department,Penjualan,811.0,0.5677710533651059
+department,Penjualan,812.0,0.5677710533651059
+department,Penjualan,820.0,0.5677710533651059
+department,Penjualan,821.0,0.5677710533651059
+department,Penjualan,823.0,0.5677710533651059
+department,Penjualan,824.0,0.5677710533651059
+department,Penjualan,825.0,0.5677710533651059
+department,Penjualan,827.0,0.5639347624639904
+department,Penjualan,828.0,0.5639347624639904
+department,Penjualan,830.0,0.5639347624639904
+department,Penjualan,831.0,0.5639347624639904
+department,Penjualan,834.0,0.5639347624639904
+department,Penjualan,835.0,0.5639347624639904
+department,Penjualan,836.0,0.5639347624639904
+department,Penjualan,841.0,0.5599066570178192
+department,Penjualan,847.0,0.5599066570178192
+department,Penjualan,848.0,0.5599066570178192
+department,Penjualan,849.0,0.5557896963044527
+department,Penjualan,851.0,0.5557896963044527
+department,Penjualan,852.0,0.5557896963044527
+department,Penjualan,855.0,0.5557896963044527
+department,Penjualan,857.0,0.5557896963044527
+department,Penjualan,859.0,0.5557896963044527
+department,Penjualan,861.0,0.5514812490462786
+department,Penjualan,863.0,0.5471728017881047
+department,Penjualan,865.0,0.5471728017881047
+department,Penjualan,866.0,0.5471728017881047
+department,Penjualan,867.0,0.5471728017881047
+department,Penjualan,869.0,0.5471728017881047
+department,Penjualan,870.0,0.5471728017881047
+department,Penjualan,874.0,0.5471728017881047
+department,Penjualan,875.0,0.5471728017881047
+department,Penjualan,877.0,0.5471728017881047
+department,Penjualan,879.0,0.5424557948761384
+department,Penjualan,883.0,0.5424557948761384
+department,Penjualan,888.0,0.5424557948761384
+department,Penjualan,891.0,0.5374791362075503
+department,Penjualan,895.0,0.5374791362075503
+department,Penjualan,898.0,0.5374791362075503
+department,Penjualan,899.0,0.5323602872912879
+department,Penjualan,900.0,0.5271917408127315
+department,Penjualan,902.0,0.5271917408127315
+department,Penjualan,903.0,0.5271917408127315
+department,Penjualan,905.0,0.5271917408127315
+department,Penjualan,906.0,0.5271917408127315
+department,Penjualan,909.0,0.5271917408127315
+department,Penjualan,910.0,0.5271917408127315
+department,Penjualan,912.0,0.5271917408127315
+department,Penjualan,913.0,0.5271917408127315
+department,Penjualan,919.0,0.5271917408127315
+department,Penjualan,920.0,0.5271917408127315
+department,Penjualan,921.0,0.521200925576223
+department,Penjualan,924.0,0.521200925576223
+department,Penjualan,927.0,0.521200925576223
+department,Penjualan,928.0,0.5150691499812083
+department,Penjualan,944.0,0.5150691499812083
+department,Penjualan,946.0,0.5150691499812083
+department,Penjualan,947.0,0.5150691499812083
+department,Penjualan,951.0,0.5150691499812083
+department,Penjualan,952.0,0.5150691499812083
+department,Penjualan,953.0,0.5150691499812083
+department,Penjualan,954.0,0.5150691499812083
+department,Penjualan,955.0,0.5150691499812083
+department,Penjualan,958.0,0.5150691499812083
+department,Penjualan,959.0,0.5150691499812083
+department,Penjualan,961.0,0.5150691499812083
+department,Penjualan,964.0,0.5150691499812083
+department,Penjualan,966.0,0.5072650719511901
+department,Penjualan,968.0,0.5072650719511901
+department,Penjualan,969.0,0.5072650719511901
+department,Penjualan,970.0,0.4992132454122824
+department,Penjualan,971.0,0.4992132454122824
+department,Penjualan,975.0,0.4992132454122824
+department,Penjualan,977.0,0.4992132454122824
+department,Penjualan,982.0,0.4992132454122824
+department,Penjualan,989.0,0.4992132454122824
+department,Penjualan,990.0,0.4992132454122824
+department,Penjualan,991.0,0.4992132454122824
+department,Penjualan,992.0,0.4992132454122824
+department,Penjualan,998.0,0.4992132454122824
+department,Penjualan,1000.0,0.4992132454122824
+department,Penjualan,1001.0,0.4992132454122824
+department,Penjualan,1002.0,0.4992132454122824
+department,Penjualan,1006.0,0.4992132454122824
+department,Penjualan,1009.0,0.4992132454122824
+department,Penjualan,1010.0,0.4992132454122824
+department,Penjualan,1011.0,0.4992132454122824
+department,Penjualan,1012.0,0.4992132454122824
+department,Penjualan,1017.0,0.4992132454122824
+department,Penjualan,1019.0,0.4992132454122824
+department,Penjualan,1020.0,0.4992132454122824
+department,Penjualan,1024.0,0.4992132454122824
+department,Penjualan,1028.0,0.4992132454122824
+department,Penjualan,1029.0,0.4992132454122824
+department,Penjualan,1031.0,0.4992132454122824
+department,Penjualan,1034.0,0.48408557130887986
+department,Penjualan,1035.0,0.48408557130887986
+department,Penjualan,1039.0,0.48408557130887986
+department,Penjualan,1043.0,0.48408557130887986
+department,Penjualan,1044.0,0.48408557130887986
+department,Penjualan,1045.0,0.48408557130887986
+department,Penjualan,1047.0,0.48408557130887986
+department,Penjualan,1050.0,0.48408557130887986
+department,Penjualan,1057.0,0.48408557130887986
+department,Penjualan,1059.0,0.48408557130887986
+department,Penjualan,1060.0,0.48408557130887986
+department,Penjualan,1063.0,0.48408557130887986
+department,Penjualan,1065.0,0.48408557130887986
+department,Penjualan,1067.0,0.48408557130887986
+department,Penjualan,1068.0,0.48408557130887986
+department,Penjualan,1073.0,0.48408557130887986
+department,Penjualan,1075.0,0.48408557130887986
+department,Penjualan,1078.0,0.48408557130887986
+department,Penjualan,1081.0,0.48408557130887986
+department,Penjualan,1083.0,0.48408557130887986
+department,Penjualan,1087.0,0.48408557130887986
+department,Penjualan,1091.0,0.48408557130887986
+department,Penjualan,1092.0,0.48408557130887986
+department,Penjualan,1095.0,0.48408557130887986
+department,SDM,0.0,1.0
+department,SDM,6.0,0.9922480620155038
+department,SDM,17.0,0.9844961240310078
+department,SDM,47.0,0.9767441860465118
+department,SDM,65.0,0.968992248062016
+department,SDM,70.0,0.9612403100775198
+department,SDM,77.0,0.953488372093023
+department,SDM,85.0,0.9457364341085275
+department,SDM,90.0,0.9302325581395349
+department,SDM,105.0,0.9224806201550392
+department,SDM,128.0,0.9147286821705432
+department,SDM,130.0,0.9069767441860468
+department,SDM,146.0,0.8992248062015504
+department,SDM,149.0,0.8914728682170545
+department,SDM,166.0,0.8837209302325585
+department,SDM,195.0,0.8759689922480624
+department,SDM,203.0,0.8682170542635657
+department,SDM,209.0,0.8604651162790697
+department,SDM,255.0,0.852713178294574
+department,SDM,300.0,0.8449612403100775
+department,SDM,304.0,0.8372093023255818
+department,SDM,306.0,0.8294573643410851
+department,SDM,326.0,0.821705426356589
+department,SDM,332.0,0.8139534883720929
+department,SDM,352.0,0.8062015503875969
+department,SDM,449.0,0.798449612403101
+department,SDM,460.0,0.7906976744186045
+department,SDM,461.0,0.7829457364341088
+department,SDM,522.0,0.7751937984496129
+department,SDM,542.0,0.7674418604651163
+department,SDM,548.0,0.7596899224806206
+department,SDM,555.0,0.7519379844961241
+department,SDM,569.0,0.7441860465116279
+department,SDM,579.0,0.7364341085271319
+department,SDM,593.0,0.7286821705426357
+department,SDM,597.0,0.7209302325581399
+department,SDM,610.0,0.7131782945736437
+department,SDM,659.0,0.7054263565891472
+department,SDM,683.0,0.6976744186046513
+department,SDM,715.0,0.689922480620155
+department,SDM,734.0,0.689922480620155
+department,SDM,740.0,0.689922480620155
+department,SDM,741.0,0.689922480620155
+department,SDM,742.0,0.689922480620155
+department,SDM,744.0,0.689922480620155
+department,SDM,746.0,0.689922480620155
+department,SDM,755.0,0.689922480620155
+department,SDM,762.0,0.6815087918321044
+department,SDM,763.0,0.6815087918321044
+department,SDM,764.0,0.6815087918321044
+department,SDM,768.0,0.6815087918321044
+department,SDM,771.0,0.6815087918321044
+department,SDM,776.0,0.6815087918321044
+department,SDM,778.0,0.6724220079410103
+department,SDM,780.0,0.6724220079410103
+department,SDM,791.0,0.6724220079410103
+department,SDM,796.0,0.6724220079410103
+department,SDM,800.0,0.6628159792561386
+department,SDM,802.0,0.6628159792561386
+department,SDM,818.0,0.6628159792561386
+department,SDM,820.0,0.6628159792561386
+department,SDM,821.0,0.6628159792561386
+department,SDM,827.0,0.6628159792561386
+department,SDM,834.0,0.6628159792561386
+department,SDM,835.0,0.6628159792561386
+department,SDM,839.0,0.6628159792561386
+department,SDM,845.0,0.6628159792561386
+department,SDM,848.0,0.6628159792561386
+department,SDM,853.0,0.6628159792561386
+department,SDM,854.0,0.6628159792561386
+department,SDM,857.0,0.6628159792561386
+department,SDM,859.0,0.6628159792561386
+department,SDM,866.0,0.6628159792561386
+department,SDM,868.0,0.6628159792561386
+department,SDM,880.0,0.6628159792561386
+department,SDM,888.0,0.6628159792561386
+department,SDM,901.0,0.6628159792561386
+department,SDM,905.0,0.6628159792561386
+department,SDM,912.0,0.6628159792561386
+department,SDM,918.0,0.6628159792561386
+department,SDM,920.0,0.6628159792561386
+department,SDM,927.0,0.6628159792561386
+department,SDM,928.0,0.6628159792561386
+department,SDM,932.0,0.6628159792561386
+department,SDM,935.0,0.6628159792561386
+department,SDM,940.0,0.6438783798488206
+department,SDM,952.0,0.6438783798488206
+department,SDM,956.0,0.6438783798488206
+department,SDM,965.0,0.6438783798488206
+department,SDM,966.0,0.6438783798488206
+department,SDM,967.0,0.6438783798488206
+department,SDM,969.0,0.6438783798488206
+department,SDM,970.0,0.6438783798488206
+department,SDM,971.0,0.6438783798488206
+department,SDM,975.0,0.6438783798488206
+department,SDM,977.0,0.6438783798488206
+department,SDM,982.0,0.6438783798488206
+department,SDM,984.0,0.6158836676814807
+department,SDM,989.0,0.6158836676814807
+department,SDM,1000.0,0.6158836676814807
+department,SDM,1012.0,0.6158836676814807
+department,SDM,1013.0,0.6158836676814807
+department,SDM,1015.0,0.6158836676814807
+department,SDM,1016.0,0.6158836676814807
+department,SDM,1018.0,0.6158836676814807
+department,SDM,1023.0,0.6158836676814807
+department,SDM,1030.0,0.6158836676814807
+department,SDM,1034.0,0.6158836676814807
+department,SDM,1035.0,0.6158836676814807
+department,SDM,1036.0,0.6158836676814807
+department,SDM,1037.0,0.6158836676814807
+department,SDM,1044.0,0.6158836676814807
+department,SDM,1054.0,0.6158836676814807
+department,SDM,1060.0,0.6158836676814807
+department,SDM,1062.0,0.6158836676814807
+department,SDM,1070.0,0.6158836676814807
+department,SDM,1079.0,0.6158836676814807
+department,SDM,1086.0,0.6158836676814807
+department,Teknologi,0.0,1.0
+department,Teknologi,15.0,0.9967845659163992
+department,Teknologi,17.0,0.993569131832798
+department,Teknologi,24.0,0.9903536977491959
+department,Teknologi,29.0,0.9871382636655948
+department,Teknologi,42.0,0.9839228295819937
+department,Teknologi,53.0,0.9807073954983927
+department,Teknologi,55.0,0.9774919614147913
+department,Teknologi,57.0,0.9742765273311895
+department,Teknologi,59.0,0.9710610932475887
+department,Teknologi,63.0,0.967845659163987
+department,Teknologi,69.0,0.9646302250803859
+department,Teknologi,72.0,0.9614147909967852
+department,Teknologi,75.0,0.9581993569131836
+department,Teknologi,92.0,0.9549839228295823
+department,Teknologi,94.0,0.9517684887459806
+department,Teknologi,107.0,0.9485530546623799
+department,Teknologi,127.0,0.9453376205787781
+department,Teknologi,155.0,0.9421221864951774
+department,Teknologi,177.0,0.9389067524115757
+department,Teknologi,183.0,0.9356913183279747
+department,Teknologi,189.0,0.9324758842443731
+department,Teknologi,201.0,0.9292604501607721
+department,Teknologi,202.0,0.9260450160771708
+department,Teknologi,205.0,0.9228295819935696
+department,Teknologi,210.0,0.9196141479099678
+department,Teknologi,237.0,0.916398713826367
+department,Teknologi,287.0,0.9131832797427657
+department,Teknologi,288.0,0.9099678456591642
+department,Teknologi,290.0,0.9067524115755631
+department,Teknologi,309.0,0.9035369774919613
+department,Teknologi,349.0,0.90032154340836
+department,Teknologi,360.0,0.8906752411575565
+department,Teknologi,379.0,0.8874598070739548
+department,Teknologi,398.0,0.8842443729903542
+department,Teknologi,409.0,0.8810289389067528
+department,Teknologi,410.0,0.8778135048231513
+department,Teknologi,411.0,0.8745980707395504
+department,Teknologi,415.0,0.8713826366559488
+department,Teknologi,417.0,0.8681672025723477
+department,Teknologi,422.0,0.8649517684887461
+department,Teknologi,427.0,0.8617363344051447
+department,Teknologi,430.0,0.8585209003215437
+department,Teknologi,443.0,0.8553054662379423
+department,Teknologi,446.0,0.8520900321543409
+department,Teknologi,448.0,0.8488745980707396
+department,Teknologi,451.0,0.8456591639871386
+department,Teknologi,470.0,0.8424437299035369
+department,Teknologi,484.0,0.8360128617363345
+department,Teknologi,492.0,0.8327974276527329
+department,Teknologi,514.0,0.829581993569132
+department,Teknologi,523.0,0.826366559485531
+department,Teknologi,525.0,0.8231511254019293
+department,Teknologi,532.0,0.8199356913183279
+department,Teknologi,536.0,0.8167202572347269
+department,Teknologi,542.0,0.8135048231511256
+department,Teknologi,559.0,0.8102893890675243
+department,Teknologi,562.0,0.8070739549839226
+department,Teknologi,566.0,0.8038585209003214
+department,Teknologi,578.0,0.8006430868167203
+department,Teknologi,579.0,0.7974276527331193
+department,Teknologi,593.0,0.7942122186495181
+department,Teknologi,595.0,0.7909967845659163
+department,Teknologi,598.0,0.7877813504823156
+department,Teknologi,603.0,0.7845659163987142
+department,Teknologi,618.0,0.7813504823151125
+department,Teknologi,627.0,0.7781350482315117
+department,Teknologi,635.0,0.77491961414791
+department,Teknologi,640.0,0.7717041800643087
+department,Teknologi,664.0,0.7684887459807078
+department,Teknologi,671.0,0.7652733118971065
+department,Teknologi,679.0,0.7620578778135052
+department,Teknologi,682.0,0.7588424437299041
+department,Teknologi,709.0,0.7556270096463024
+department,Teknologi,719.0,0.7524115755627013
+department,Teknologi,721.0,0.7491961414790995
+department,Teknologi,733.0,0.7491961414790995
+department,Teknologi,735.0,0.7491961414790995
+department,Teknologi,740.0,0.7394240178945896
+department,Teknologi,749.0,0.7394240178945896
+department,Teknologi,752.0,0.7394240178945896
+department,Teknologi,753.0,0.7394240178945896
+department,Teknologi,755.0,0.7361230178147034
+department,Teknologi,756.0,0.7361230178147034
+department,Teknologi,757.0,0.7328071483650873
+department,Teknologi,759.0,0.7328071483650873
+department,Teknologi,760.0,0.7328071483650873
+department,Teknologi,762.0,0.7328071483650873
+department,Teknologi,764.0,0.7328071483650873
+department,Teknologi,767.0,0.7259903376826219
+department,Teknologi,769.0,0.7259903376826219
+department,Teknologi,770.0,0.7259903376826219
+department,Teknologi,773.0,0.7225496251817561
+department,Teknologi,775.0,0.7225496251817561
+department,Teknologi,776.0,0.719092449941652
+department,Teknologi,778.0,0.7156352747015479
+department,Teknologi,779.0,0.7156352747015479
+department,Teknologi,780.0,0.7156352747015479
+department,Teknologi,781.0,0.7156352747015479
+department,Teknologi,782.0,0.7156352747015479
+department,Teknologi,783.0,0.7156352747015479
+department,Teknologi,786.0,0.7156352747015479
+department,Teknologi,787.0,0.7156352747015479
+department,Teknologi,788.0,0.7156352747015479
+department,Teknologi,789.0,0.7156352747015479
+department,Teknologi,792.0,0.7156352747015479
+department,Teknologi,793.0,0.7156352747015479
+department,Teknologi,797.0,0.7156352747015479
+department,Teknologi,798.0,0.7156352747015479
+department,Teknologi,800.0,0.7156352747015479
+department,Teknologi,801.0,0.7156352747015479
+department,Teknologi,802.0,0.711808348098866
+department,Teknologi,804.0,0.711808348098866
+department,Teknologi,805.0,0.711808348098866
+department,Teknologi,806.0,0.711808348098866
+department,Teknologi,808.0,0.711808348098866
+department,Teknologi,811.0,0.711808348098866
+department,Teknologi,812.0,0.711808348098866
+department,Teknologi,814.0,0.7077868320079118
+department,Teknologi,816.0,0.7037423358250092
+department,Teknologi,819.0,0.7037423358250092
+department,Teknologi,820.0,0.7037423358250092
+department,Teknologi,821.0,0.7037423358250092
+department,Teknologi,822.0,0.7037423358250092
+department,Teknologi,823.0,0.6995533933498607
+department,Teknologi,824.0,0.6995533933498607
+department,Teknologi,829.0,0.6995533933498607
+department,Teknologi,830.0,0.6995533933498607
+department,Teknologi,831.0,0.6995533933498607
+department,Teknologi,832.0,0.6995533933498607
+department,Teknologi,833.0,0.6995533933498607
+department,Teknologi,836.0,0.6906418851543215
+department,Teknologi,837.0,0.6906418851543215
+department,Teknologi,839.0,0.6906418851543215
+department,Teknologi,842.0,0.6906418851543215
+department,Teknologi,844.0,0.6906418851543215
+department,Teknologi,846.0,0.6860680978354184
+department,Teknologi,847.0,0.6860680978354184
+department,Teknologi,850.0,0.6860680978354184
+department,Teknologi,851.0,0.6860680978354184
+department,Teknologi,853.0,0.6860680978354184
+department,Teknologi,855.0,0.6860680978354184
+department,Teknologi,857.0,0.6860680978354184
+department,Teknologi,858.0,0.6860680978354184
+department,Teknologi,859.0,0.6860680978354184
+department,Teknologi,860.0,0.6860680978354184
+department,Teknologi,861.0,0.6860680978354184
+department,Teknologi,862.0,0.6860680978354184
+department,Teknologi,865.0,0.6860680978354184
+department,Teknologi,868.0,0.6810234794689815
+department,Teknologi,870.0,0.6810234794689815
+department,Teknologi,871.0,0.6759030021797409
+department,Teknologi,873.0,0.6759030021797409
+department,Teknologi,874.0,0.6759030021797409
+department,Teknologi,875.0,0.6759030021797409
+department,Teknologi,878.0,0.6759030021797409
+department,Teknologi,881.0,0.6705809312964358
+department,Teknologi,882.0,0.6705809312964358
+department,Teknologi,885.0,0.6705809312964358
+department,Teknologi,887.0,0.6705809312964358
+department,Teknologi,891.0,0.6705809312964358
+department,Teknologi,895.0,0.6705809312964358
+department,Teknologi,896.0,0.6705809312964358
+department,Teknologi,898.0,0.6705809312964358
+department,Teknologi,900.0,0.6705809312964358
+department,Teknologi,902.0,0.6705809312964358
+department,Teknologi,904.0,0.6705809312964358
+department,Teknologi,905.0,0.6644288126606891
+department,Teknologi,906.0,0.6644288126606891
+department,Teknologi,908.0,0.6644288126606891
+department,Teknologi,909.0,0.6644288126606891
+department,Teknologi,910.0,0.6644288126606891
+department,Teknologi,911.0,0.6644288126606891
+department,Teknologi,914.0,0.6644288126606891
+department,Teknologi,915.0,0.6644288126606891
+department,Teknologi,918.0,0.6644288126606891
+department,Teknologi,919.0,0.6644288126606891
+department,Teknologi,924.0,0.6644288126606891
+department,Teknologi,925.0,0.6644288126606891
+department,Teknologi,926.0,0.6644288126606891
+department,Teknologi,929.0,0.6572844168256278
+department,Teknologi,938.0,0.6572844168256278
+department,Teknologi,939.0,0.6572844168256278
+department,Teknologi,942.0,0.6572844168256278
+department,Teknologi,943.0,0.6572844168256278
+department,Teknologi,946.0,0.6572844168256278
+department,Teknologi,947.0,0.6572844168256278
+department,Teknologi,950.0,0.6572844168256278
+department,Teknologi,951.0,0.6572844168256278
+department,Teknologi,953.0,0.6572844168256278
+department,Teknologi,954.0,0.6572844168256278
+department,Teknologi,955.0,0.6572844168256278
+department,Teknologi,956.0,0.6572844168256278
+department,Teknologi,960.0,0.6572844168256278
+department,Teknologi,962.0,0.6572844168256278
+department,Teknologi,963.0,0.6572844168256278
+department,Teknologi,974.0,0.6572844168256278
+department,Teknologi,975.0,0.6572844168256278
+department,Teknologi,977.0,0.6572844168256278
+department,Teknologi,979.0,0.6572844168256278
+department,Teknologi,980.0,0.6572844168256278
+department,Teknologi,983.0,0.6572844168256278
+department,Teknologi,988.0,0.6572844168256278
+department,Teknologi,991.0,0.6572844168256278
+department,Teknologi,992.0,0.6572844168256278
+department,Teknologi,994.0,0.6572844168256278
+department,Teknologi,996.0,0.6572844168256278
+department,Teknologi,997.0,0.6572844168256278
+department,Teknologi,999.0,0.6572844168256278
+department,Teknologi,1002.0,0.6572844168256278
+department,Teknologi,1003.0,0.6572844168256278
+department,Teknologi,1008.0,0.6572844168256278
+department,Teknologi,1012.0,0.6572844168256278
+department,Teknologi,1018.0,0.6432996419995507
+department,Teknologi,1019.0,0.6432996419995507
+department,Teknologi,1023.0,0.6432996419995507
+department,Teknologi,1024.0,0.6432996419995507
+department,Teknologi,1026.0,0.6432996419995507
+department,Teknologi,1027.0,0.6432996419995507
+department,Teknologi,1029.0,0.6432996419995507
+department,Teknologi,1031.0,0.6432996419995507
+department,Teknologi,1033.0,0.6432996419995507
+department,Teknologi,1035.0,0.6432996419995507
+department,Teknologi,1044.0,0.6432996419995507
+department,Teknologi,1045.0,0.6432996419995507
+department,Teknologi,1047.0,0.6432996419995507
+department,Teknologi,1050.0,0.6432996419995507
+department,Teknologi,1051.0,0.6432996419995507
+department,Teknologi,1054.0,0.6432996419995507
+department,Teknologi,1055.0,0.6432996419995507
+department,Teknologi,1057.0,0.6432996419995507
+department,Teknologi,1059.0,0.6432996419995507
+department,Teknologi,1061.0,0.6432996419995507
+department,Teknologi,1062.0,0.6432996419995507
+department,Teknologi,1063.0,0.6432996419995507
+department,Teknologi,1066.0,0.6432996419995507
+department,Teknologi,1070.0,0.6432996419995507
+department,Teknologi,1072.0,0.6432996419995507
+department,Teknologi,1073.0,0.6432996419995507
+department,Teknologi,1074.0,0.6432996419995507
+department,Teknologi,1075.0,0.6432996419995507
+department,Teknologi,1077.0,0.6432996419995507
+department,Teknologi,1085.0,0.6432996419995507
+department,Teknologi,1088.0,0.6432996419995507
+department,Teknologi,1090.0,0.6432996419995507
+department,Teknologi,1094.0,0.6432996419995507
+department,Teknologi,1095.0,0.6432996419995507
+department,Teknologi,1096.0,0.6432996419995507
+overtime,Lembur <20 jam,0.0,1.0
+overtime,Lembur <20 jam,6.0,0.9972752043596732
+overtime,Lembur <20 jam,13.0,0.9959128065395095
+overtime,Lembur <20 jam,15.0,0.9945504087193465
+overtime,Lembur <20 jam,17.0,0.9931880108991831
+overtime,Lembur <20 jam,23.0,0.9904632152588558
+overtime,Lembur <20 jam,24.0,0.9891008174386923
+overtime,Lembur <20 jam,28.0,0.9877384196185289
+overtime,Lembur <20 jam,29.0,0.9863760217983651
+overtime,Lembur <20 jam,32.0,0.9850136239782021
+overtime,Lembur <20 jam,35.0,0.9836512261580382
+overtime,Lembur <20 jam,39.0,0.9822888283378753
+overtime,Lembur <20 jam,40.0,0.9809264305177118
+overtime,Lembur <20 jam,47.0,0.9795640326975483
+overtime,Lembur <20 jam,49.0,0.9782016348773844
+overtime,Lembur <20 jam,51.0,0.9768392370572209
+overtime,Lembur <20 jam,60.0,0.9754768392370577
+overtime,Lembur <20 jam,65.0,0.974114441416894
+overtime,Lembur <20 jam,69.0,0.9727520435967304
+overtime,Lembur <20 jam,72.0,0.9713896457765672
+overtime,Lembur <20 jam,74.0,0.9700272479564037
+overtime,Lembur <20 jam,77.0,0.9686648501362399
+overtime,Lembur <20 jam,85.0,0.9673024523160769
+overtime,Lembur <20 jam,99.0,0.9659400544959131
+overtime,Lembur <20 jam,116.0,0.9645776566757496
+overtime,Lembur <20 jam,117.0,0.9632152588555866
+overtime,Lembur <20 jam,119.0,0.9618528610354226
+overtime,Lembur <20 jam,128.0,0.9604904632152595
+overtime,Lembur <20 jam,130.0,0.9577656675749324
+overtime,Lembur <20 jam,132.0,0.9564032697547685
+overtime,Lembur <20 jam,137.0,0.9550408719346053
+overtime,Lembur <20 jam,146.0,0.9536784741144415
+overtime,Lembur <20 jam,149.0,0.9523160762942783
+overtime,Lembur <20 jam,154.0,0.9509536784741147
+overtime,Lembur <20 jam,155.0,0.9495912806539516
+overtime,Lembur <20 jam,160.0,0.9482288828337881
+overtime,Lembur <20 jam,162.0,0.9468664850136242
+overtime,Lembur <20 jam,166.0,0.945504087193461
+overtime,Lembur <20 jam,168.0,0.9441416893732975
+overtime,Lembur <20 jam,177.0,0.9427792915531336
+overtime,Lembur <20 jam,183.0,0.9414168937329708
+overtime,Lembur <20 jam,189.0,0.9400544959128065
+overtime,Lembur <20 jam,191.0,0.9386920980926435
+overtime,Lembur <20 jam,195.0,0.9373297002724799
+overtime,Lembur <20 jam,197.0,0.9359673024523162
+overtime,Lembur <20 jam,202.0,0.9346049046321526
+overtime,Lembur <20 jam,203.0,0.9332425068119897
+overtime,Lembur <20 jam,205.0,0.9305177111716626
+overtime,Lembur <20 jam,206.0,0.9291553133514993
+overtime,Lembur <20 jam,210.0,0.9277929155313352
+overtime,Lembur <20 jam,215.0,0.9264305177111717
+overtime,Lembur <20 jam,221.0,0.9250681198910087
+overtime,Lembur <20 jam,222.0,0.9237057220708449
+overtime,Lembur <20 jam,230.0,0.9223433242506816
+overtime,Lembur <20 jam,231.0,0.9209809264305182
+overtime,Lembur <20 jam,232.0,0.9196185286103549
+overtime,Lembur <20 jam,233.0,0.9168937329700276
+overtime,Lembur <20 jam,237.0,0.9155313351498642
+overtime,Lembur <20 jam,241.0,0.9141689373297008
+overtime,Lembur <20 jam,251.0,0.912806539509537
+overtime,Lembur <20 jam,254.0,0.911444141689374
+overtime,Lembur <20 jam,255.0,0.9100817438692098
+overtime,Lembur <20 jam,262.0,0.9073569482288834
+overtime,Lembur <20 jam,283.0,0.9059945504087198
+overtime,Lembur <20 jam,285.0,0.904632152588556
+overtime,Lembur <20 jam,287.0,0.9032697547683927
+overtime,Lembur <20 jam,288.0,0.9019073569482293
+overtime,Lembur <20 jam,290.0,0.9005449591280654
+overtime,Lembur <20 jam,300.0,0.8991825613079022
+overtime,Lembur <20 jam,304.0,0.8978201634877387
+overtime,Lembur <20 jam,306.0,0.8964577656675754
+overtime,Lembur <20 jam,311.0,0.8950953678474114
+overtime,Lembur <20 jam,319.0,0.8937329700272479
+overtime,Lembur <20 jam,326.0,0.8923705722070846
+overtime,Lembur <20 jam,328.0,0.8910081743869215
+overtime,Lembur <20 jam,329.0,0.8896457765667578
+overtime,Lembur <20 jam,340.0,0.8882833787465946
+overtime,Lembur <20 jam,345.0,0.8869209809264306
+overtime,Lembur <20 jam,358.0,0.8855585831062673
+overtime,Lembur <20 jam,360.0,0.8828337874659402
+overtime,Lembur <20 jam,376.0,0.8814713896457772
+overtime,Lembur <20 jam,379.0,0.8801089918256134
+overtime,Lembur <20 jam,388.0,0.87874659400545
+overtime,Lembur <20 jam,401.0,0.8773841961852867
+overtime,Lembur <20 jam,402.0,0.8760217983651227
+overtime,Lembur <20 jam,409.0,0.8746594005449595
+overtime,Lembur <20 jam,410.0,0.8719346049046324
+overtime,Lembur <20 jam,415.0,0.8705722070844688
+overtime,Lembur <20 jam,417.0,0.8692098092643055
+overtime,Lembur <20 jam,420.0,0.8678474114441419
+overtime,Lembur <20 jam,423.0,0.8664850136239787
+overtime,Lembur <20 jam,427.0,0.8651226158038151
+overtime,Lembur <20 jam,435.0,0.8637602179836514
+overtime,Lembur <20 jam,436.0,0.8623978201634878
+overtime,Lembur <20 jam,443.0,0.8610354223433249
+overtime,Lembur <20 jam,444.0,0.8596730245231607
+overtime,Lembur <20 jam,449.0,0.8569482288828345
+overtime,Lembur <20 jam,452.0,0.8555858310626705
+overtime,Lembur <20 jam,460.0,0.8542234332425074
+overtime,Lembur <20 jam,470.0,0.8514986376021799
+overtime,Lembur <20 jam,484.0,0.8487738419618531
+overtime,Lembur <20 jam,504.0,0.8474114441416897
+overtime,Lembur <20 jam,521.0,0.8460490463215262
+overtime,Lembur <20 jam,522.0,0.8433242506811993
+overtime,Lembur <20 jam,523.0,0.8419618528610354
+overtime,Lembur <20 jam,525.0,0.8405994550408725
+overtime,Lembur <20 jam,532.0,0.8392370572207085
+overtime,Lembur <20 jam,533.0,0.8378746594005451
+overtime,Lembur <20 jam,542.0,0.8365122615803816
+overtime,Lembur <20 jam,544.0,0.8351498637602185
+overtime,Lembur <20 jam,551.0,0.8337874659400548
+overtime,Lembur <20 jam,555.0,0.8324250681198916
+overtime,Lembur <20 jam,559.0,0.8310626702997281
+overtime,Lembur <20 jam,566.0,0.8297002724795645
+overtime,Lembur <20 jam,569.0,0.8283378746594011
+overtime,Lembur <20 jam,570.0,0.8269754768392374
+overtime,Lembur <20 jam,579.0,0.8242506811989108
+overtime,Lembur <20 jam,582.0,0.8228882833787471
+overtime,Lembur <20 jam,583.0,0.8215258855585836
+overtime,Lembur <20 jam,584.0,0.8201634877384197
+overtime,Lembur <20 jam,585.0,0.817438692098093
+overtime,Lembur <20 jam,593.0,0.8147138964577657
+overtime,Lembur <20 jam,596.0,0.8133514986376027
+overtime,Lembur <20 jam,597.0,0.8119891008174392
+overtime,Lembur <20 jam,598.0,0.8092643051771122
+overtime,Lembur <20 jam,601.0,0.8079019073569488
+overtime,Lembur <20 jam,603.0,0.8065395095367849
+overtime,Lembur <20 jam,606.0,0.8051771117166219
+overtime,Lembur <20 jam,610.0,0.8038147138964578
+overtime,Lembur <20 jam,620.0,0.8024523160762945
+overtime,Lembur <20 jam,627.0,0.8010899182561311
+overtime,Lembur <20 jam,629.0,0.7997275204359678
+overtime,Lembur <20 jam,640.0,0.7983651226158038
+overtime,Lembur <20 jam,643.0,0.7970027247956409
+overtime,Lembur <20 jam,646.0,0.7956403269754773
+overtime,Lembur <20 jam,649.0,0.7942779291553136
+overtime,Lembur <20 jam,654.0,0.7929155313351505
+overtime,Lembur <20 jam,659.0,0.7901907356948232
+overtime,Lembur <20 jam,664.0,0.78882833787466
+overtime,Lembur <20 jam,671.0,0.7874659400544964
+overtime,Lembur <20 jam,678.0,0.786103542234333
+overtime,Lembur <20 jam,679.0,0.7847411444141694
+overtime,Lembur <20 jam,682.0,0.783378746594006
+overtime,Lembur <20 jam,689.0,0.7820163487738426
+overtime,Lembur <20 jam,698.0,0.7806539509536791
+overtime,Lembur <20 jam,715.0,0.7792915531335152
+overtime,Lembur <20 jam,719.0,0.777929155313352
+overtime,Lembur <20 jam,723.0,0.7765667574931886
+overtime,Lembur <20 jam,728.0,0.7752043596730248
+overtime,Lembur <20 jam,732.0,0.7752043596730248
+overtime,Lembur <20 jam,733.0,0.7752043596730248
+overtime,Lembur <20 jam,734.0,0.7752043596730248
+overtime,Lembur <20 jam,735.0,0.7738274425155235
+overtime,Lembur <20 jam,736.0,0.7738274425155235
+overtime,Lembur <20 jam,738.0,0.7738274425155235
+overtime,Lembur <20 jam,739.0,0.7724306420777699
+overtime,Lembur <20 jam,740.0,0.7710338416400159
+overtime,Lembur <20 jam,741.0,0.7710338416400159
+overtime,Lembur <20 jam,742.0,0.7710338416400159
+overtime,Lembur <20 jam,744.0,0.7710338416400159
+overtime,Lembur <20 jam,746.0,0.7682043596523459
+overtime,Lembur <20 jam,748.0,0.7682043596523459
+overtime,Lembur <20 jam,749.0,0.7682043596523459
+overtime,Lembur <20 jam,750.0,0.7682043596523459
+overtime,Lembur <20 jam,752.0,0.7653432633407912
+overtime,Lembur <20 jam,753.0,0.7653432633407912
+overtime,Lembur <20 jam,755.0,0.7639073472744861
+overtime,Lembur <20 jam,756.0,0.7639073472744861
+overtime,Lembur <20 jam,757.0,0.7624632880168783
+overtime,Lembur <20 jam,758.0,0.7624632880168783
+overtime,Lembur <20 jam,759.0,0.7624632880168783
+overtime,Lembur <20 jam,760.0,0.7624632880168783
+overtime,Lembur <20 jam,761.0,0.7595419727371199
+overtime,Lembur <20 jam,762.0,0.7580785007279924
+overtime,Lembur <20 jam,763.0,0.7580785007279924
+overtime,Lembur <20 jam,764.0,0.7580785007279924
+overtime,Lembur <20 jam,765.0,0.756597878656258
+overtime,Lembur <20 jam,767.0,0.7551114388160692
+overtime,Lembur <20 jam,768.0,0.7551114388160692
+overtime,Lembur <20 jam,769.0,0.7551114388160692
+overtime,Lembur <20 jam,770.0,0.7551114388160692
+overtime,Lembur <20 jam,771.0,0.7551114388160692
+overtime,Lembur <20 jam,772.0,0.7551114388160692
+overtime,Lembur <20 jam,773.0,0.7536042303553584
+overtime,Lembur <20 jam,775.0,0.7536042303553584
+overtime,Lembur <20 jam,776.0,0.7536042303553584
+overtime,Lembur <20 jam,777.0,0.7536042303553584
+overtime,Lembur <20 jam,778.0,0.7520787157190111
+overtime,Lembur <20 jam,779.0,0.7520787157190111
+overtime,Lembur <20 jam,780.0,0.7520787157190111
+overtime,Lembur <20 jam,781.0,0.7520787157190111
+overtime,Lembur <20 jam,782.0,0.7520787157190111
+overtime,Lembur <20 jam,783.0,0.750518386433287
+overtime,Lembur <20 jam,784.0,0.750518386433287
+overtime,Lembur <20 jam,785.0,0.750518386433287
+overtime,Lembur <20 jam,786.0,0.750518386433287
+overtime,Lembur <20 jam,787.0,0.750518386433287
+overtime,Lembur <20 jam,788.0,0.750518386433287
+overtime,Lembur <20 jam,789.0,0.750518386433287
+overtime,Lembur <20 jam,791.0,0.750518386433287
+overtime,Lembur <20 jam,792.0,0.750518386433287
+overtime,Lembur <20 jam,793.0,0.750518386433287
+overtime,Lembur <20 jam,794.0,0.750518386433287
+overtime,Lembur <20 jam,795.0,0.750518386433287
+overtime,Lembur <20 jam,796.0,0.750518386433287
+overtime,Lembur <20 jam,797.0,0.750518386433287
+overtime,Lembur <20 jam,798.0,0.750518386433287
+overtime,Lembur <20 jam,800.0,0.7488652622340948
+overtime,Lembur <20 jam,801.0,0.7488652622340948
+overtime,Lembur <20 jam,802.0,0.7455369721797208
+overtime,Lembur <20 jam,803.0,0.7455369721797208
+overtime,Lembur <20 jam,804.0,0.7455369721797208
+overtime,Lembur <20 jam,805.0,0.7455369721797208
+overtime,Lembur <20 jam,806.0,0.7455369721797208
+overtime,Lembur <20 jam,807.0,0.7455369721797208
+overtime,Lembur <20 jam,808.0,0.7455369721797208
+overtime,Lembur <20 jam,810.0,0.7438151777866965
+overtime,Lembur <20 jam,811.0,0.7438151777866965
+overtime,Lembur <20 jam,812.0,0.7438151777866965
+overtime,Lembur <20 jam,814.0,0.7403230877501388
+overtime,Lembur <20 jam,816.0,0.73857291496586
+overtime,Lembur <20 jam,817.0,0.73857291496586
+overtime,Lembur <20 jam,818.0,0.73857291496586
+overtime,Lembur <20 jam,819.0,0.73857291496586
+overtime,Lembur <20 jam,820.0,0.73857291496586
+overtime,Lembur <20 jam,821.0,0.73857291496586
+overtime,Lembur <20 jam,823.0,0.73857291496586
+overtime,Lembur <20 jam,824.0,0.73857291496586
+overtime,Lembur <20 jam,825.0,0.7367264826784458
+overtime,Lembur <20 jam,826.0,0.7348800503910309
+overtime,Lembur <20 jam,827.0,0.7348800503910309
+overtime,Lembur <20 jam,830.0,0.7348800503910309
+overtime,Lembur <20 jam,831.0,0.7348800503910309
+overtime,Lembur <20 jam,832.0,0.7348800503910309
+overtime,Lembur <20 jam,833.0,0.7348800503910309
+overtime,Lembur <20 jam,834.0,0.7348800503910309
+overtime,Lembur <20 jam,835.0,0.7348800503910309
+overtime,Lembur <20 jam,836.0,0.7310624916877003
+overtime,Lembur <20 jam,837.0,0.7310624916877003
+overtime,Lembur <20 jam,839.0,0.7310624916877003
+overtime,Lembur <20 jam,840.0,0.7310624916877003
+overtime,Lembur <20 jam,841.0,0.7310624916877003
+overtime,Lembur <20 jam,842.0,0.7310624916877003
+overtime,Lembur <20 jam,844.0,0.7310624916877003
+overtime,Lembur <20 jam,845.0,0.7310624916877003
+overtime,Lembur <20 jam,846.0,0.7310624916877003
+overtime,Lembur <20 jam,847.0,0.7310624916877003
+overtime,Lembur <20 jam,848.0,0.7310624916877003
+overtime,Lembur <20 jam,851.0,0.7310624916877003
+overtime,Lembur <20 jam,852.0,0.7310624916877003
+overtime,Lembur <20 jam,854.0,0.7310624916877003
+overtime,Lembur <20 jam,855.0,0.7310624916877003
+overtime,Lembur <20 jam,856.0,0.7310624916877003
+overtime,Lembur <20 jam,857.0,0.7290204176885724
+overtime,Lembur <20 jam,858.0,0.7290204176885724
+overtime,Lembur <20 jam,859.0,0.7290204176885724
+overtime,Lembur <20 jam,861.0,0.7290204176885724
+overtime,Lembur <20 jam,862.0,0.7290204176885724
+overtime,Lembur <20 jam,863.0,0.7269434364415964
+overtime,Lembur <20 jam,864.0,0.7269434364415964
+overtime,Lembur <20 jam,865.0,0.7269434364415964
+overtime,Lembur <20 jam,866.0,0.7269434364415964
+overtime,Lembur <20 jam,867.0,0.7269434364415964
+overtime,Lembur <20 jam,868.0,0.7248240678222332
+overtime,Lembur <20 jam,870.0,0.7248240678222332
+overtime,Lembur <20 jam,871.0,0.7226796179174335
+overtime,Lembur <20 jam,873.0,0.7226796179174335
+overtime,Lembur <20 jam,874.0,0.7226796179174335
+overtime,Lembur <20 jam,875.0,0.7226796179174335
+overtime,Lembur <20 jam,876.0,0.7226796179174335
+overtime,Lembur <20 jam,877.0,0.7204830233340982
+overtime,Lembur <20 jam,878.0,0.7204830233340982
+overtime,Lembur <20 jam,879.0,0.7204830233340982
+overtime,Lembur <20 jam,880.0,0.7204830233340982
+overtime,Lembur <20 jam,881.0,0.7182315138861791
+overtime,Lembur <20 jam,882.0,0.7182315138861791
+overtime,Lembur <20 jam,883.0,0.7182315138861791
+overtime,Lembur <20 jam,885.0,0.7182315138861791
+overtime,Lembur <20 jam,886.0,0.7182315138861791
+overtime,Lembur <20 jam,887.0,0.7182315138861791
+overtime,Lembur <20 jam,888.0,0.7159294898032104
+overtime,Lembur <20 jam,891.0,0.713612565887989
+overtime,Lembur <20 jam,895.0,0.713612565887989
+overtime,Lembur <20 jam,896.0,0.713612565887989
+overtime,Lembur <20 jam,897.0,0.713612565887989
+overtime,Lembur <20 jam,898.0,0.713612565887989
+overtime,Lembur <20 jam,899.0,0.7112338573350294
+overtime,Lembur <20 jam,900.0,0.7088551487820693
+overtime,Lembur <20 jam,901.0,0.7088551487820693
+overtime,Lembur <20 jam,902.0,0.7088551487820693
+overtime,Lembur <20 jam,904.0,0.7088551487820693
+overtime,Lembur <20 jam,905.0,0.7063938461821316
+overtime,Lembur <20 jam,906.0,0.7063938461821316
+overtime,Lembur <20 jam,907.0,0.7063938461821316
+overtime,Lembur <20 jam,908.0,0.7063938461821316
+overtime,Lembur <20 jam,909.0,0.7063938461821316
+overtime,Lembur <20 jam,910.0,0.7063938461821316
+overtime,Lembur <20 jam,911.0,0.7063938461821316
+overtime,Lembur <20 jam,912.0,0.7063938461821316
+overtime,Lembur <20 jam,913.0,0.7063938461821316
+overtime,Lembur <20 jam,914.0,0.7063938461821316
+overtime,Lembur <20 jam,915.0,0.7063938461821316
+overtime,Lembur <20 jam,916.0,0.7063938461821316
+overtime,Lembur <20 jam,918.0,0.7063938461821316
+overtime,Lembur <20 jam,919.0,0.7036558855380151
+overtime,Lembur <20 jam,920.0,0.7036558855380151
+overtime,Lembur <20 jam,921.0,0.7008855867760545
+overtime,Lembur <20 jam,922.0,0.6981152880140937
+overtime,Lembur <20 jam,924.0,0.6981152880140937
+overtime,Lembur <20 jam,925.0,0.6981152880140937
+overtime,Lembur <20 jam,926.0,0.6981152880140937
+overtime,Lembur <20 jam,927.0,0.6981152880140937
+overtime,Lembur <20 jam,928.0,0.6952423855942831
+overtime,Lembur <20 jam,929.0,0.6923211991001894
+overtime,Lembur <20 jam,930.0,0.6923211991001894
+overtime,Lembur <20 jam,931.0,0.6923211991001894
+overtime,Lembur <20 jam,932.0,0.6923211991001894
+overtime,Lembur <20 jam,933.0,0.6923211991001894
+overtime,Lembur <20 jam,935.0,0.6923211991001894
+overtime,Lembur <20 jam,938.0,0.6893241376322236
+overtime,Lembur <20 jam,939.0,0.6893241376322236
+overtime,Lembur <20 jam,941.0,0.6893241376322236
+overtime,Lembur <20 jam,942.0,0.6893241376322236
+overtime,Lembur <20 jam,943.0,0.6893241376322236
+overtime,Lembur <20 jam,945.0,0.68624679773208
+overtime,Lembur <20 jam,946.0,0.68624679773208
+overtime,Lembur <20 jam,947.0,0.68624679773208
+overtime,Lembur <20 jam,948.0,0.68624679773208
+overtime,Lembur <20 jam,950.0,0.68624679773208
+overtime,Lembur <20 jam,951.0,0.68624679773208
+overtime,Lembur <20 jam,952.0,0.68624679773208
+overtime,Lembur <20 jam,953.0,0.68624679773208
+overtime,Lembur <20 jam,954.0,0.68624679773208
+overtime,Lembur <20 jam,955.0,0.68624679773208
+overtime,Lembur <20 jam,956.0,0.68624679773208
+overtime,Lembur <20 jam,957.0,0.68624679773208
+overtime,Lembur <20 jam,959.0,0.68624679773208
+overtime,Lembur <20 jam,960.0,0.68624679773208
+overtime,Lembur <20 jam,961.0,0.68624679773208
+overtime,Lembur <20 jam,962.0,0.68624679773208
+overtime,Lembur <20 jam,963.0,0.68624679773208
+overtime,Lembur <20 jam,965.0,0.68624679773208
+overtime,Lembur <20 jam,966.0,0.6789072597884209
+overtime,Lembur <20 jam,968.0,0.6789072597884209
+overtime,Lembur <20 jam,969.0,0.6789072597884209
+overtime,Lembur <20 jam,970.0,0.6789072597884209
+overtime,Lembur <20 jam,971.0,0.6789072597884209
+overtime,Lembur <20 jam,972.0,0.6789072597884209
+overtime,Lembur <20 jam,973.0,0.6789072597884209
+overtime,Lembur <20 jam,974.0,0.6789072597884209
+overtime,Lembur <20 jam,975.0,0.6789072597884209
+overtime,Lembur <20 jam,977.0,0.6789072597884209
+overtime,Lembur <20 jam,978.0,0.6789072597884209
+overtime,Lembur <20 jam,979.0,0.6748174570186107
+overtime,Lembur <20 jam,980.0,0.6748174570186107
+overtime,Lembur <20 jam,982.0,0.6748174570186107
+overtime,Lembur <20 jam,983.0,0.6748174570186107
+overtime,Lembur <20 jam,984.0,0.6705192566554351
+overtime,Lembur <20 jam,987.0,0.6705192566554351
+overtime,Lembur <20 jam,988.0,0.6705192566554351
+overtime,Lembur <20 jam,989.0,0.6705192566554351
+overtime,Lembur <20 jam,990.0,0.6705192566554351
+overtime,Lembur <20 jam,991.0,0.6705192566554351
+overtime,Lembur <20 jam,992.0,0.6705192566554351
+overtime,Lembur <20 jam,993.0,0.6705192566554351
+overtime,Lembur <20 jam,996.0,0.6705192566554351
+overtime,Lembur <20 jam,997.0,0.6705192566554351
+overtime,Lembur <20 jam,998.0,0.6705192566554351
+overtime,Lembur <20 jam,999.0,0.6705192566554351
+overtime,Lembur <20 jam,1000.0,0.6705192566554351
+overtime,Lembur <20 jam,1001.0,0.6705192566554351
+overtime,Lembur <20 jam,1003.0,0.6705192566554351
+overtime,Lembur <20 jam,1008.0,0.6705192566554351
+overtime,Lembur <20 jam,1009.0,0.6705192566554351
+overtime,Lembur <20 jam,1010.0,0.6705192566554351
+overtime,Lembur <20 jam,1011.0,0.6705192566554351
+overtime,Lembur <20 jam,1012.0,0.6705192566554351
+overtime,Lembur <20 jam,1013.0,0.6705192566554351
+overtime,Lembur <20 jam,1016.0,0.6705192566554351
+overtime,Lembur <20 jam,1017.0,0.6705192566554351
+overtime,Lembur <20 jam,1018.0,0.6646886544236488
+overtime,Lembur <20 jam,1019.0,0.6646886544236488
+overtime,Lembur <20 jam,1020.0,0.6646886544236488
+overtime,Lembur <20 jam,1023.0,0.6646886544236488
+overtime,Lembur <20 jam,1024.0,0.6646886544236488
+overtime,Lembur <20 jam,1026.0,0.6646886544236488
+overtime,Lembur <20 jam,1027.0,0.6646886544236488
+overtime,Lembur <20 jam,1028.0,0.6646886544236488
+overtime,Lembur <20 jam,1029.0,0.6646886544236488
+overtime,Lembur <20 jam,1030.0,0.6646886544236488
+overtime,Lembur <20 jam,1031.0,0.6646886544236488
+overtime,Lembur <20 jam,1032.0,0.6646886544236488
+overtime,Lembur <20 jam,1033.0,0.6646886544236488
+overtime,Lembur <20 jam,1034.0,0.6571353742597434
+overtime,Lembur <20 jam,1035.0,0.6571353742597434
+overtime,Lembur <20 jam,1036.0,0.6571353742597434
+overtime,Lembur <20 jam,1037.0,0.6571353742597434
+overtime,Lembur <20 jam,1038.0,0.6571353742597434
+overtime,Lembur <20 jam,1039.0,0.6571353742597434
+overtime,Lembur <20 jam,1043.0,0.6571353742597434
+overtime,Lembur <20 jam,1044.0,0.6571353742597434
+overtime,Lembur <20 jam,1045.0,0.6571353742597434
+overtime,Lembur <20 jam,1046.0,0.6571353742597434
+overtime,Lembur <20 jam,1047.0,0.6571353742597434
+overtime,Lembur <20 jam,1050.0,0.6571353742597434
+overtime,Lembur <20 jam,1053.0,0.6571353742597434
+overtime,Lembur <20 jam,1054.0,0.6571353742597434
+overtime,Lembur <20 jam,1055.0,0.6571353742597434
+overtime,Lembur <20 jam,1056.0,0.6571353742597434
+overtime,Lembur <20 jam,1057.0,0.6571353742597434
+overtime,Lembur <20 jam,1059.0,0.6571353742597434
+overtime,Lembur <20 jam,1060.0,0.6571353742597434
+overtime,Lembur <20 jam,1061.0,0.6571353742597434
+overtime,Lembur <20 jam,1062.0,0.6571353742597434
+overtime,Lembur <20 jam,1063.0,0.6571353742597434
+overtime,Lembur <20 jam,1065.0,0.6571353742597434
+overtime,Lembur <20 jam,1066.0,0.6571353742597434
+overtime,Lembur <20 jam,1067.0,0.6571353742597434
+overtime,Lembur <20 jam,1068.0,0.6571353742597434
+overtime,Lembur <20 jam,1069.0,0.6571353742597434
+overtime,Lembur <20 jam,1070.0,0.6571353742597434
+overtime,Lembur <20 jam,1073.0,0.6571353742597434
+overtime,Lembur <20 jam,1074.0,0.6571353742597434
+overtime,Lembur <20 jam,1075.0,0.6571353742597434
+overtime,Lembur <20 jam,1076.0,0.6571353742597434
+overtime,Lembur <20 jam,1077.0,0.6571353742597434
+overtime,Lembur <20 jam,1078.0,0.6571353742597434
+overtime,Lembur <20 jam,1079.0,0.6571353742597434
+overtime,Lembur <20 jam,1081.0,0.6571353742597434
+overtime,Lembur <20 jam,1082.0,0.6571353742597434
+overtime,Lembur <20 jam,1083.0,0.6571353742597434
+overtime,Lembur <20 jam,1084.0,0.6571353742597434
+overtime,Lembur <20 jam,1085.0,0.6571353742597434
+overtime,Lembur <20 jam,1086.0,0.6571353742597434
+overtime,Lembur <20 jam,1087.0,0.6571353742597434
+overtime,Lembur <20 jam,1090.0,0.6571353742597434
+overtime,Lembur <20 jam,1091.0,0.6571353742597434
+overtime,Lembur <20 jam,1093.0,0.6571353742597434
+overtime,Lembur <20 jam,1094.0,0.6571353742597434
+overtime,Lembur <20 jam,1095.0,0.6571353742597434
+overtime,Lembur <20 jam,1096.0,0.6571353742597434
+overtime,Lembur >=20 jam,0.0,1.0
+overtime,Lembur >=20 jam,7.0,0.9986945169712795
+overtime,Lembur >=20 jam,8.0,0.9973890339425592
+overtime,Lembur >=20 jam,14.0,0.9960835509138383
+overtime,Lembur >=20 jam,17.0,0.9921671018276766
+overtime,Lembur >=20 jam,22.0,0.9908616187989563
+overtime,Lembur >=20 jam,25.0,0.9895561357702353
+overtime,Lembur >=20 jam,26.0,0.9882506527415144
+overtime,Lembur >=20 jam,29.0,0.9869451697127943
+overtime,Lembur >=20 jam,32.0,0.9856396866840734
+overtime,Lembur >=20 jam,42.0,0.984334203655353
+overtime,Lembur >=20 jam,46.0,0.983028720626632
+overtime,Lembur >=20 jam,47.0,0.9817232375979117
+overtime,Lembur >=20 jam,53.0,0.9791122715404701
+overtime,Lembur >=20 jam,55.0,0.9778067885117493
+overtime,Lembur >=20 jam,57.0,0.9765013054830294
+overtime,Lembur >=20 jam,59.0,0.9751958224543084
+overtime,Lembur >=20 jam,61.0,0.9738903394255873
+overtime,Lembur >=20 jam,63.0,0.9725848563968672
+overtime,Lembur >=20 jam,66.0,0.9712793733681462
+overtime,Lembur >=20 jam,68.0,0.9673629242819842
+overtime,Lembur >=20 jam,69.0,0.9660574412532638
+overtime,Lembur >=20 jam,70.0,0.964751958224543
+overtime,Lembur >=20 jam,71.0,0.9608355091383818
+overtime,Lembur >=20 jam,72.0,0.9582245430809397
+overtime,Lembur >=20 jam,75.0,0.9569190600522194
+overtime,Lembur >=20 jam,77.0,0.9556135770234987
+overtime,Lembur >=20 jam,79.0,0.9543080939947779
+overtime,Lembur >=20 jam,80.0,0.9530026109660578
+overtime,Lembur >=20 jam,81.0,0.9516971279373371
+overtime,Lembur >=20 jam,82.0,0.9503916449086164
+overtime,Lembur >=20 jam,83.0,0.9477806788511749
+overtime,Lembur >=20 jam,84.0,0.9464751958224544
+overtime,Lembur >=20 jam,85.0,0.9451697127937335
+overtime,Lembur >=20 jam,86.0,0.9438642297650134
+overtime,Lembur >=20 jam,90.0,0.9412532637075722
+overtime,Lembur >=20 jam,91.0,0.9399477806788517
+overtime,Lembur >=20 jam,92.0,0.9386422976501311
+overtime,Lembur >=20 jam,93.0,0.9373368146214099
+overtime,Lembur >=20 jam,94.0,0.9360313315926893
+overtime,Lembur >=20 jam,96.0,0.934725848563969
+overtime,Lembur >=20 jam,98.0,0.9321148825065274
+overtime,Lembur >=20 jam,101.0,0.930809399477807
+overtime,Lembur >=20 jam,105.0,0.9295039164490865
+overtime,Lembur >=20 jam,107.0,0.9268929503916453
+overtime,Lembur >=20 jam,111.0,0.9242819843342037
+overtime,Lembur >=20 jam,112.0,0.9229765013054836
+overtime,Lembur >=20 jam,113.0,0.9216710182767625
+overtime,Lembur >=20 jam,119.0,0.9203655352480422
+overtime,Lembur >=20 jam,120.0,0.9190600522193212
+overtime,Lembur >=20 jam,121.0,0.9177545691906008
+overtime,Lembur >=20 jam,123.0,0.9164490861618798
+overtime,Lembur >=20 jam,127.0,0.9138381201044385
+overtime,Lembur >=20 jam,131.0,0.9112271540469975
+overtime,Lembur >=20 jam,132.0,0.9099216710182771
+overtime,Lembur >=20 jam,133.0,0.9086161879895566
+overtime,Lembur >=20 jam,135.0,0.9073107049608357
+overtime,Lembur >=20 jam,138.0,0.9046997389033945
+overtime,Lembur >=20 jam,141.0,0.9033942558746735
+overtime,Lembur >=20 jam,143.0,0.9020887728459536
+overtime,Lembur >=20 jam,154.0,0.9007832898172322
+overtime,Lembur >=20 jam,158.0,0.8994778067885121
+overtime,Lembur >=20 jam,162.0,0.8981723237597912
+overtime,Lembur >=20 jam,165.0,0.8968668407310705
+overtime,Lembur >=20 jam,167.0,0.8955613577023498
+overtime,Lembur >=20 jam,177.0,0.8942558746736297
+overtime,Lembur >=20 jam,179.0,0.8929503916449085
+overtime,Lembur >=20 jam,184.0,0.8916449086161883
+overtime,Lembur >=20 jam,195.0,0.8903394255874678
+overtime,Lembur >=20 jam,196.0,0.8890339425587467
+overtime,Lembur >=20 jam,198.0,0.8864229765013059
+overtime,Lembur >=20 jam,199.0,0.8851174934725848
+overtime,Lembur >=20 jam,200.0,0.882506527415144
+overtime,Lembur >=20 jam,201.0,0.8812010443864234
+overtime,Lembur >=20 jam,209.0,0.8798955613577025
+overtime,Lembur >=20 jam,222.0,0.878590078328982
+overtime,Lembur >=20 jam,223.0,0.8772845953002614
+overtime,Lembur >=20 jam,224.0,0.8759791122715409
+overtime,Lembur >=20 jam,226.0,0.87467362924282
+overtime,Lembur >=20 jam,227.0,0.8733681462140997
+overtime,Lembur >=20 jam,232.0,0.8720626631853785
+overtime,Lembur >=20 jam,239.0,0.8707571801566578
+overtime,Lembur >=20 jam,241.0,0.8694516971279377
+overtime,Lembur >=20 jam,244.0,0.868146214099217
+overtime,Lembur >=20 jam,246.0,0.8668407310704961
+overtime,Lembur >=20 jam,248.0,0.8655352480417756
+overtime,Lembur >=20 jam,251.0,0.864229765013055
+overtime,Lembur >=20 jam,255.0,0.8603133159268931
+overtime,Lembur >=20 jam,257.0,0.8590078328981726
+overtime,Lembur >=20 jam,260.0,0.8577023498694515
+overtime,Lembur >=20 jam,262.0,0.8563968668407309
+overtime,Lembur >=20 jam,263.0,0.8550913838120104
+overtime,Lembur >=20 jam,272.0,0.8537859007832901
+overtime,Lembur >=20 jam,274.0,0.8511749347258489
+overtime,Lembur >=20 jam,276.0,0.8498694516971278
+overtime,Lembur >=20 jam,279.0,0.8485639686684074
+overtime,Lembur >=20 jam,280.0,0.8472584856396872
+overtime,Lembur >=20 jam,288.0,0.8459530026109661
+overtime,Lembur >=20 jam,293.0,0.8446475195822459
+overtime,Lembur >=20 jam,294.0,0.843342036553525
+overtime,Lembur >=20 jam,304.0,0.840731070496084
+overtime,Lembur >=20 jam,305.0,0.8394255874673628
+overtime,Lembur >=20 jam,306.0,0.8381201044386425
+overtime,Lembur >=20 jam,309.0,0.8355091383812011
+overtime,Lembur >=20 jam,310.0,0.8342036553524804
+overtime,Lembur >=20 jam,312.0,0.8328981723237598
+overtime,Lembur >=20 jam,315.0,0.8315926892950393
+overtime,Lembur >=20 jam,316.0,0.8302872062663189
+overtime,Lembur >=20 jam,318.0,0.8276762402088773
+overtime,Lembur >=20 jam,320.0,0.8263707571801565
+overtime,Lembur >=20 jam,322.0,0.8250652741514365
+overtime,Lembur >=20 jam,326.0,0.8237597911227152
+overtime,Lembur >=20 jam,327.0,0.8211488250652746
+overtime,Lembur >=20 jam,331.0,0.8198433420365535
+overtime,Lembur >=20 jam,332.0,0.8172323759791124
+overtime,Lembur >=20 jam,338.0,0.8159268929503916
+overtime,Lembur >=20 jam,339.0,0.8146214099216714
+overtime,Lembur >=20 jam,341.0,0.8133159268929505
+overtime,Lembur >=20 jam,344.0,0.8120104438642298
+overtime,Lembur >=20 jam,349.0,0.809399477806789
+overtime,Lembur >=20 jam,350.0,0.8067885117493471
+overtime,Lembur >=20 jam,352.0,0.805483028720627
+overtime,Lembur >=20 jam,353.0,0.8041775456919059
+overtime,Lembur >=20 jam,354.0,0.8028720626631853
+overtime,Lembur >=20 jam,358.0,0.8002610966057445
+overtime,Lembur >=20 jam,360.0,0.7976501305483032
+overtime,Lembur >=20 jam,361.0,0.7950391644908619
+overtime,Lembur >=20 jam,364.0,0.7937336814621414
+overtime,Lembur >=20 jam,365.0,0.7924281984334206
+overtime,Lembur >=20 jam,371.0,0.7911227154046997
+overtime,Lembur >=20 jam,372.0,0.7898172323759796
+overtime,Lembur >=20 jam,377.0,0.7885117493472588
+overtime,Lembur >=20 jam,379.0,0.7872062663185383
+overtime,Lembur >=20 jam,380.0,0.7859007832898173
+overtime,Lembur >=20 jam,381.0,0.7845953002610968
+overtime,Lembur >=20 jam,382.0,0.7832898172323761
+overtime,Lembur >=20 jam,389.0,0.7819843342036554
+overtime,Lembur >=20 jam,390.0,0.7793733681462144
+overtime,Lembur >=20 jam,395.0,0.7780678851174938
+overtime,Lembur >=20 jam,396.0,0.7767624020887733
+overtime,Lembur >=20 jam,398.0,0.7754569190600527
+overtime,Lembur >=20 jam,406.0,0.7728459530026109
+overtime,Lembur >=20 jam,409.0,0.7715404699738907
+overtime,Lembur >=20 jam,411.0,0.7702349869451696
+overtime,Lembur >=20 jam,412.0,0.7689295039164491
+overtime,Lembur >=20 jam,413.0,0.7663185378590083
+overtime,Lembur >=20 jam,415.0,0.763707571801567
+overtime,Lembur >=20 jam,420.0,0.7624020887728462
+overtime,Lembur >=20 jam,422.0,0.7610966057441254
+overtime,Lembur >=20 jam,423.0,0.7597911227154052
+overtime,Lembur >=20 jam,424.0,0.7558746736292433
+overtime,Lembur >=20 jam,425.0,0.7545691906005225
+overtime,Lembur >=20 jam,427.0,0.7532637075718019
+overtime,Lembur >=20 jam,430.0,0.7519582245430813
+overtime,Lembur >=20 jam,434.0,0.7506527415143607
+overtime,Lembur >=20 jam,438.0,0.7493472584856401
+overtime,Lembur >=20 jam,439.0,0.7467362924281985
+overtime,Lembur >=20 jam,441.0,0.7454308093994781
+overtime,Lembur >=20 jam,445.0,0.7441253263707576
+overtime,Lembur >=20 jam,446.0,0.7428198433420367
+overtime,Lembur >=20 jam,448.0,0.7415143603133163
+overtime,Lembur >=20 jam,451.0,0.7402088772845952
+overtime,Lembur >=20 jam,461.0,0.7389033942558749
+overtime,Lembur >=20 jam,466.0,0.7349869451697131
+overtime,Lembur >=20 jam,470.0,0.7336814621409922
+overtime,Lembur >=20 jam,472.0,0.7297650130548304
+overtime,Lembur >=20 jam,474.0,0.7271540469973894
+overtime,Lembur >=20 jam,481.0,0.7258485639686685
+overtime,Lembur >=20 jam,482.0,0.7232375979112274
+overtime,Lembur >=20 jam,483.0,0.7219321148825069
+overtime,Lembur >=20 jam,486.0,0.7206266318537858
+overtime,Lembur >=20 jam,489.0,0.7193211488250657
+overtime,Lembur >=20 jam,490.0,0.7180156657963446
+overtime,Lembur >=20 jam,491.0,0.7167101827676241
+overtime,Lembur >=20 jam,492.0,0.7140992167101828
+overtime,Lembur >=20 jam,495.0,0.7114882506527416
+overtime,Lembur >=20 jam,496.0,0.7101827676240208
+overtime,Lembur >=20 jam,497.0,0.7088772845953002
+overtime,Lembur >=20 jam,499.0,0.70757180156658
+overtime,Lembur >=20 jam,502.0,0.7062663185378589
+overtime,Lembur >=20 jam,503.0,0.7049608355091388
+overtime,Lembur >=20 jam,508.0,0.7023498694516973
+overtime,Lembur >=20 jam,509.0,0.7010443864229768
+overtime,Lembur >=20 jam,511.0,0.699738903394256
+overtime,Lembur >=20 jam,512.0,0.6984334203655352
+overtime,Lembur >=20 jam,514.0,0.6971279373368149
+overtime,Lembur >=20 jam,520.0,0.695822454308094
+overtime,Lembur >=20 jam,523.0,0.6932114882506529
+overtime,Lembur >=20 jam,525.0,0.6919060052219322
+overtime,Lembur >=20 jam,528.0,0.6906005221932117
+overtime,Lembur >=20 jam,529.0,0.689295039164491
+overtime,Lembur >=20 jam,530.0,0.6879895561357705
+overtime,Lembur >=20 jam,533.0,0.6866840731070499
+overtime,Lembur >=20 jam,536.0,0.6840731070496084
+overtime,Lembur >=20 jam,537.0,0.6827676240208881
+overtime,Lembur >=20 jam,542.0,0.6801566579634466
+overtime,Lembur >=20 jam,544.0,0.678851174934726
+overtime,Lembur >=20 jam,545.0,0.6775456919060052
+overtime,Lembur >=20 jam,548.0,0.6762402088772845
+overtime,Lembur >=20 jam,552.0,0.6749347258485641
+overtime,Lembur >=20 jam,554.0,0.6736292428198435
+overtime,Lembur >=20 jam,557.0,0.672323759791123
+overtime,Lembur >=20 jam,561.0,0.6710182767624024
+overtime,Lembur >=20 jam,562.0,0.6697127937336815
+overtime,Lembur >=20 jam,567.0,0.6671018276762404
+overtime,Lembur >=20 jam,570.0,0.664490861618799
+overtime,Lembur >=20 jam,573.0,0.6631853785900785
+overtime,Lembur >=20 jam,574.0,0.6618798955613581
+overtime,Lembur >=20 jam,576.0,0.6592689295039168
+overtime,Lembur >=20 jam,577.0,0.6579634464751961
+overtime,Lembur >=20 jam,578.0,0.6566579634464754
+overtime,Lembur >=20 jam,581.0,0.6553524804177545
+overtime,Lembur >=20 jam,585.0,0.6527415143603132
+overtime,Lembur >=20 jam,586.0,0.6514360313315929
+overtime,Lembur >=20 jam,589.0,0.6488250652741517
+overtime,Lembur >=20 jam,590.0,0.6475195822454312
+overtime,Lembur >=20 jam,591.0,0.6462140992167104
+overtime,Lembur >=20 jam,595.0,0.6449086161879899
+overtime,Lembur >=20 jam,596.0,0.6422976501305483
+overtime,Lembur >=20 jam,598.0,0.6409921671018277
+overtime,Lembur >=20 jam,599.0,0.6396866840731069
+overtime,Lembur >=20 jam,602.0,0.6383812010443868
+overtime,Lembur >=20 jam,604.0,0.6357702349869453
+overtime,Lembur >=20 jam,605.0,0.6344647519582246
+overtime,Lembur >=20 jam,606.0,0.6331592689295041
+overtime,Lembur >=20 jam,608.0,0.6318537859007837
+overtime,Lembur >=20 jam,618.0,0.6292428198433421
+overtime,Lembur >=20 jam,625.0,0.6279373368146215
+overtime,Lembur >=20 jam,628.0,0.6266318537859009
+overtime,Lembur >=20 jam,635.0,0.6253263707571801
+overtime,Lembur >=20 jam,639.0,0.62402088772846
+overtime,Lembur >=20 jam,644.0,0.6227154046997393
+overtime,Lembur >=20 jam,645.0,0.6214099216710187
+overtime,Lembur >=20 jam,648.0,0.6201044386422978
+overtime,Lembur >=20 jam,661.0,0.6187989556135775
+overtime,Lembur >=20 jam,662.0,0.6174934725848563
+overtime,Lembur >=20 jam,667.0,0.6148825065274153
+overtime,Lembur >=20 jam,670.0,0.6135770234986947
+overtime,Lembur >=20 jam,671.0,0.6109660574412537
+overtime,Lembur >=20 jam,673.0,0.6096605744125329
+overtime,Lembur >=20 jam,679.0,0.6083550913838119
+overtime,Lembur >=20 jam,681.0,0.6070496083550913
+overtime,Lembur >=20 jam,683.0,0.6044386422976503
+overtime,Lembur >=20 jam,689.0,0.6031331592689295
+overtime,Lembur >=20 jam,690.0,0.601827676240209
+overtime,Lembur >=20 jam,691.0,0.6005221932114886
+overtime,Lembur >=20 jam,692.0,0.5992167101827679
+overtime,Lembur >=20 jam,693.0,0.5966057441253267
+overtime,Lembur >=20 jam,697.0,0.595300261096606
+overtime,Lembur >=20 jam,704.0,0.5939947780678851
+overtime,Lembur >=20 jam,709.0,0.5926892950391648
+overtime,Lembur >=20 jam,716.0,0.5913838120104442
+overtime,Lembur >=20 jam,719.0,0.5900783289817236
+overtime,Lembur >=20 jam,721.0,0.5887728459530029
+overtime,Lembur >=20 jam,725.0,0.5874673629242821
+overtime,Lembur >=20 jam,726.0,0.5848563968668408
+overtime,Lembur >=20 jam,731.0,0.5835509138381204
+overtime,Lembur >=20 jam,732.0,0.5835509138381204
+overtime,Lembur >=20 jam,733.0,0.5835509138381204
+overtime,Lembur >=20 jam,735.0,0.5822336431522555
+overtime,Lembur >=20 jam,736.0,0.5822336431522555
+overtime,Lembur >=20 jam,740.0,0.5795810980809466
+overtime,Lembur >=20 jam,741.0,0.5769285530096381
+overtime,Lembur >=20 jam,742.0,0.5769285530096381
+overtime,Lembur >=20 jam,743.0,0.5769285530096381
+overtime,Lembur >=20 jam,745.0,0.5769285530096381
+overtime,Lembur >=20 jam,746.0,0.5769285530096381
+overtime,Lembur >=20 jam,747.0,0.5769285530096381
+overtime,Lembur >=20 jam,748.0,0.5769285530096381
+overtime,Lembur >=20 jam,749.0,0.5769285530096381
+overtime,Lembur >=20 jam,750.0,0.5769285530096381
+overtime,Lembur >=20 jam,751.0,0.5769285530096381
+overtime,Lembur >=20 jam,752.0,0.5769285530096381
+overtime,Lembur >=20 jam,753.0,0.5769285530096381
+overtime,Lembur >=20 jam,754.0,0.5769285530096381
+overtime,Lembur >=20 jam,755.0,0.5769285530096381
+overtime,Lembur >=20 jam,756.0,0.5755248339025592
+overtime,Lembur >=20 jam,757.0,0.5755248339025592
+overtime,Lembur >=20 jam,758.0,0.5741072850505822
+overtime,Lembur >=20 jam,759.0,0.5741072850505822
+overtime,Lembur >=20 jam,760.0,0.5741072850505822
+overtime,Lembur >=20 jam,761.0,0.5741072850505822
+overtime,Lembur >=20 jam,762.0,0.5741072850505822
+overtime,Lembur >=20 jam,764.0,0.5741072850505822
+overtime,Lembur >=20 jam,765.0,0.5741072850505822
+overtime,Lembur >=20 jam,767.0,0.5726464522641938
+overtime,Lembur >=20 jam,768.0,0.5726464522641938
+overtime,Lembur >=20 jam,770.0,0.5726464522641938
+overtime,Lembur >=20 jam,771.0,0.5726464522641938
+overtime,Lembur >=20 jam,772.0,0.5726464522641938
+overtime,Lembur >=20 jam,775.0,0.5726464522641938
+overtime,Lembur >=20 jam,776.0,0.5711434432031328
+overtime,Lembur >=20 jam,777.0,0.5711434432031328
+overtime,Lembur >=20 jam,778.0,0.5696203940212581
+overtime,Lembur >=20 jam,779.0,0.5696203940212581
+overtime,Lembur >=20 jam,780.0,0.5696203940212581
+overtime,Lembur >=20 jam,781.0,0.5680725125157655
+overtime,Lembur >=20 jam,782.0,0.5665118737451177
+overtime,Lembur >=20 jam,783.0,0.5665118737451177
+overtime,Lembur >=20 jam,785.0,0.564942588776295
+overtime,Lembur >=20 jam,786.0,0.564942588776295
+overtime,Lembur >=20 jam,787.0,0.5633645368523387
+overtime,Lembur >=20 jam,788.0,0.5633645368523387
+overtime,Lembur >=20 jam,790.0,0.5617820521982592
+overtime,Lembur >=20 jam,791.0,0.5617820521982592
+overtime,Lembur >=20 jam,792.0,0.5601815335310276
+overtime,Lembur >=20 jam,793.0,0.5601815335310276
+overtime,Lembur >=20 jam,795.0,0.5569620994302747
+overtime,Lembur >=20 jam,796.0,0.5569620994302747
+overtime,Lembur >=20 jam,798.0,0.5569620994302747
+overtime,Lembur >=20 jam,800.0,0.5553383032220233
+overtime,Lembur >=20 jam,801.0,0.5553383032220233
+overtime,Lembur >=20 jam,805.0,0.5536952904905971
+overtime,Lembur >=20 jam,808.0,0.5536952904905971
+overtime,Lembur >=20 jam,810.0,0.5536952904905971
+overtime,Lembur >=20 jam,811.0,0.5520325418705049
+overtime,Lembur >=20 jam,812.0,0.5503647698406845
+overtime,Lembur >=20 jam,814.0,0.5503647698406845
+overtime,Lembur >=20 jam,815.0,0.5503647698406845
+overtime,Lembur >=20 jam,816.0,0.5503647698406845
+overtime,Lembur >=20 jam,818.0,0.5486816971500402
+overtime,Lembur >=20 jam,821.0,0.5486816971500402
+overtime,Lembur >=20 jam,822.0,0.5486816971500402
+overtime,Lembur >=20 jam,823.0,0.5469724083738718
+overtime,Lembur >=20 jam,824.0,0.5469724083738718
+overtime,Lembur >=20 jam,825.0,0.5469724083738718
+overtime,Lembur >=20 jam,826.0,0.5469724083738718
+overtime,Lembur >=20 jam,827.0,0.5452359880298276
+overtime,Lembur >=20 jam,828.0,0.5452359880298276
+overtime,Lembur >=20 jam,829.0,0.5452359880298276
+overtime,Lembur >=20 jam,830.0,0.543454171075482
+overtime,Lembur >=20 jam,831.0,0.543454171075482
+overtime,Lembur >=20 jam,834.0,0.543454171075482
+overtime,Lembur >=20 jam,835.0,0.539806827645445
+overtime,Lembur >=20 jam,836.0,0.539806827645445
+overtime,Lembur >=20 jam,837.0,0.539806827645445
+overtime,Lembur >=20 jam,838.0,0.5379581741261114
+overtime,Lembur >=20 jam,840.0,0.5379581741261114
+overtime,Lembur >=20 jam,841.0,0.5360902637992847
+overtime,Lembur >=20 jam,842.0,0.5360902637992847
+overtime,Lembur >=20 jam,843.0,0.5360902637992847
+overtime,Lembur >=20 jam,844.0,0.5360902637992847
+overtime,Lembur >=20 jam,845.0,0.5342026220253434
+overtime,Lembur >=20 jam,846.0,0.5323082864862462
+overtime,Lembur >=20 jam,847.0,0.5323082864862462
+overtime,Lembur >=20 jam,848.0,0.5323082864862462
+overtime,Lembur >=20 jam,849.0,0.5303865959213137
+overtime,Lembur >=20 jam,850.0,0.5303865959213137
+overtime,Lembur >=20 jam,851.0,0.5303865959213137
+overtime,Lembur >=20 jam,852.0,0.5284222011216049
+overtime,Lembur >=20 jam,853.0,0.5264578063218963
+overtime,Lembur >=20 jam,854.0,0.5264578063218963
+overtime,Lembur >=20 jam,855.0,0.5264578063218963
+overtime,Lembur >=20 jam,856.0,0.5264578063218963
+overtime,Lembur >=20 jam,857.0,0.5264578063218963
+overtime,Lembur >=20 jam,859.0,0.5264578063218963
+overtime,Lembur >=20 jam,860.0,0.5264578063218963
+overtime,Lembur >=20 jam,861.0,0.5244093323673361
+overtime,Lembur >=20 jam,864.0,0.5223528251815821
+overtime,Lembur >=20 jam,865.0,0.5223528251815821
+overtime,Lembur >=20 jam,866.0,0.5223528251815821
+overtime,Lembur >=20 jam,867.0,0.5223528251815821
+overtime,Lembur >=20 jam,869.0,0.5223528251815821
+overtime,Lembur >=20 jam,871.0,0.5223528251815821
+overtime,Lembur >=20 jam,873.0,0.5223528251815821
+overtime,Lembur >=20 jam,874.0,0.5223528251815821
+overtime,Lembur >=20 jam,875.0,0.5223528251815821
+overtime,Lembur >=20 jam,877.0,0.5223528251815821
+overtime,Lembur >=20 jam,878.0,0.5223528251815821
+overtime,Lembur >=20 jam,879.0,0.5201488048221662
+overtime,Lembur >=20 jam,880.0,0.5201488048221662
+overtime,Lembur >=20 jam,881.0,0.5201488048221662
+overtime,Lembur >=20 jam,883.0,0.5201488048221662
+overtime,Lembur >=20 jam,885.0,0.5179164065182086
+overtime,Lembur >=20 jam,886.0,0.5156840082142506
+overtime,Lembur >=20 jam,887.0,0.5156840082142506
+overtime,Lembur >=20 jam,888.0,0.5156840082142506
+overtime,Lembur >=20 jam,889.0,0.5156840082142506
+overtime,Lembur >=20 jam,890.0,0.5156840082142506
+overtime,Lembur >=20 jam,891.0,0.5156840082142506
+overtime,Lembur >=20 jam,892.0,0.5156840082142506
+overtime,Lembur >=20 jam,894.0,0.5156840082142506
+overtime,Lembur >=20 jam,895.0,0.5156840082142506
+overtime,Lembur >=20 jam,896.0,0.5156840082142506
+overtime,Lembur >=20 jam,898.0,0.5156840082142506
+overtime,Lembur >=20 jam,899.0,0.5156840082142506
+overtime,Lembur >=20 jam,900.0,0.5156840082142506
+overtime,Lembur >=20 jam,901.0,0.5156840082142506
+overtime,Lembur >=20 jam,902.0,0.5156840082142506
+overtime,Lembur >=20 jam,903.0,0.5156840082142506
+overtime,Lembur >=20 jam,904.0,0.5156840082142506
+overtime,Lembur >=20 jam,905.0,0.5156840082142506
+overtime,Lembur >=20 jam,906.0,0.5156840082142506
+overtime,Lembur >=20 jam,909.0,0.5156840082142506
+overtime,Lembur >=20 jam,910.0,0.5156840082142506
+overtime,Lembur >=20 jam,911.0,0.5156840082142506
+overtime,Lembur >=20 jam,912.0,0.5156840082142506
+overtime,Lembur >=20 jam,913.0,0.5156840082142506
+overtime,Lembur >=20 jam,914.0,0.5130258432234555
+overtime,Lembur >=20 jam,915.0,0.5130258432234555
+overtime,Lembur >=20 jam,918.0,0.5130258432234555
+overtime,Lembur >=20 jam,920.0,0.5130258432234555
+overtime,Lembur >=20 jam,921.0,0.5130258432234555
+overtime,Lembur >=20 jam,922.0,0.5130258432234555
+overtime,Lembur >=20 jam,923.0,0.5130258432234555
+overtime,Lembur >=20 jam,924.0,0.5130258432234555
+overtime,Lembur >=20 jam,925.0,0.5101914462995689
+overtime,Lembur >=20 jam,927.0,0.5101914462995689
+overtime,Lembur >=20 jam,929.0,0.5101914462995689
+overtime,Lembur >=20 jam,931.0,0.5073090087498537
+overtime,Lembur >=20 jam,935.0,0.5073090087498537
+overtime,Lembur >=20 jam,938.0,0.5073090087498537
+overtime,Lembur >=20 jam,939.0,0.5073090087498537
+overtime,Lembur >=20 jam,940.0,0.5043765867339584
+overtime,Lembur >=20 jam,942.0,0.5043765867339584
+overtime,Lembur >=20 jam,943.0,0.5043765867339584
+overtime,Lembur >=20 jam,944.0,0.5043765867339584
+overtime,Lembur >=20 jam,945.0,0.5043765867339584
+overtime,Lembur >=20 jam,946.0,0.5043765867339584
+overtime,Lembur >=20 jam,947.0,0.5043765867339584
+overtime,Lembur >=20 jam,948.0,0.5043765867339584
+overtime,Lembur >=20 jam,950.0,0.501184329855895
+overtime,Lembur >=20 jam,953.0,0.501184329855895
+overtime,Lembur >=20 jam,954.0,0.501184329855895
+overtime,Lembur >=20 jam,955.0,0.49792988615553185
+overtime,Lembur >=20 jam,956.0,0.494675442455169
+overtime,Lembur >=20 jam,957.0,0.494675442455169
+overtime,Lembur >=20 jam,958.0,0.494675442455169
+overtime,Lembur >=20 jam,959.0,0.494675442455169
+overtime,Lembur >=20 jam,960.0,0.494675442455169
+overtime,Lembur >=20 jam,961.0,0.494675442455169
+overtime,Lembur >=20 jam,964.0,0.494675442455169
+overtime,Lembur >=20 jam,965.0,0.494675442455169
+overtime,Lembur >=20 jam,967.0,0.494675442455169
+overtime,Lembur >=20 jam,968.0,0.494675442455169
+overtime,Lembur >=20 jam,969.0,0.494675442455169
+overtime,Lembur >=20 jam,970.0,0.4910381230253515
+overtime,Lembur >=20 jam,973.0,0.4910381230253515
+overtime,Lembur >=20 jam,975.0,0.4910381230253515
+overtime,Lembur >=20 jam,976.0,0.48726090669438726
+overtime,Lembur >=20 jam,977.0,0.48726090669438726
+overtime,Lembur >=20 jam,979.0,0.48726090669438726
+overtime,Lembur >=20 jam,982.0,0.48726090669438726
+overtime,Lembur >=20 jam,983.0,0.48726090669438726
+overtime,Lembur >=20 jam,985.0,0.48726090669438726
+overtime,Lembur >=20 jam,986.0,0.48726090669438726
+overtime,Lembur >=20 jam,987.0,0.48726090669438726
+overtime,Lembur >=20 jam,989.0,0.48726090669438726
+overtime,Lembur >=20 jam,991.0,0.48726090669438726
+overtime,Lembur >=20 jam,992.0,0.48726090669438726
+overtime,Lembur >=20 jam,994.0,0.48726090669438726
+overtime,Lembur >=20 jam,995.0,0.48726090669438726
+overtime,Lembur >=20 jam,997.0,0.48726090669438726
+overtime,Lembur >=20 jam,998.0,0.48726090669438726
+overtime,Lembur >=20 jam,1000.0,0.48726090669438726
+overtime,Lembur >=20 jam,1001.0,0.48726090669438726
+overtime,Lembur >=20 jam,1002.0,0.48726090669438726
+overtime,Lembur >=20 jam,1003.0,0.48726090669438726
+overtime,Lembur >=20 jam,1004.0,0.48726090669438726
+overtime,Lembur >=20 jam,1005.0,0.48726090669438726
+overtime,Lembur >=20 jam,1006.0,0.48243654128157165
+overtime,Lembur >=20 jam,1009.0,0.48243654128157165
+overtime,Lembur >=20 jam,1011.0,0.48243654128157165
+overtime,Lembur >=20 jam,1012.0,0.48243654128157165
+overtime,Lembur >=20 jam,1013.0,0.48243654128157165
+overtime,Lembur >=20 jam,1014.0,0.48243654128157165
+overtime,Lembur >=20 jam,1015.0,0.48243654128157165
+overtime,Lembur >=20 jam,1016.0,0.48243654128157165
+overtime,Lembur >=20 jam,1017.0,0.48243654128157165
+overtime,Lembur >=20 jam,1018.0,0.48243654128157165
+overtime,Lembur >=20 jam,1020.0,0.48243654128157165
+overtime,Lembur >=20 jam,1021.0,0.48243654128157165
+overtime,Lembur >=20 jam,1023.0,0.48243654128157165
+overtime,Lembur >=20 jam,1024.0,0.48243654128157165
+overtime,Lembur >=20 jam,1025.0,0.48243654128157165
+overtime,Lembur >=20 jam,1026.0,0.48243654128157165
+overtime,Lembur >=20 jam,1029.0,0.48243654128157165
+overtime,Lembur >=20 jam,1031.0,0.48243654128157165
+overtime,Lembur >=20 jam,1032.0,0.48243654128157165
+overtime,Lembur >=20 jam,1033.0,0.4751268967166994
+overtime,Lembur >=20 jam,1035.0,0.4751268967166994
+overtime,Lembur >=20 jam,1036.0,0.4751268967166994
+overtime,Lembur >=20 jam,1037.0,0.4751268967166994
+overtime,Lembur >=20 jam,1038.0,0.4751268967166994
+overtime,Lembur >=20 jam,1039.0,0.4751268967166994
+overtime,Lembur >=20 jam,1040.0,0.4751268967166994
+overtime,Lembur >=20 jam,1041.0,0.4751268967166994
+overtime,Lembur >=20 jam,1043.0,0.4751268967166994
+overtime,Lembur >=20 jam,1044.0,0.4751268967166994
+overtime,Lembur >=20 jam,1045.0,0.4751268967166994
+overtime,Lembur >=20 jam,1046.0,0.4751268967166994
+overtime,Lembur >=20 jam,1047.0,0.4751268967166994
+overtime,Lembur >=20 jam,1049.0,0.4751268967166994
+overtime,Lembur >=20 jam,1051.0,0.4751268967166994
+overtime,Lembur >=20 jam,1052.0,0.4751268967166994
+overtime,Lembur >=20 jam,1054.0,0.4751268967166994
+overtime,Lembur >=20 jam,1055.0,0.4751268967166994
+overtime,Lembur >=20 jam,1056.0,0.4751268967166994
+overtime,Lembur >=20 jam,1057.0,0.4751268967166994
+overtime,Lembur >=20 jam,1059.0,0.4751268967166994
+overtime,Lembur >=20 jam,1060.0,0.4751268967166994
+overtime,Lembur >=20 jam,1061.0,0.4751268967166994
+overtime,Lembur >=20 jam,1063.0,0.4751268967166994
+overtime,Lembur >=20 jam,1066.0,0.4751268967166994
+overtime,Lembur >=20 jam,1067.0,0.4592893334928094
+overtime,Lembur >=20 jam,1068.0,0.4592893334928094
+overtime,Lembur >=20 jam,1071.0,0.4592893334928094
+overtime,Lembur >=20 jam,1072.0,0.4592893334928094
+overtime,Lembur >=20 jam,1073.0,0.4592893334928094
+overtime,Lembur >=20 jam,1074.0,0.4592893334928094
+overtime,Lembur >=20 jam,1075.0,0.4592893334928094
+overtime,Lembur >=20 jam,1078.0,0.4592893334928094
+overtime,Lembur >=20 jam,1081.0,0.4592893334928094
+overtime,Lembur >=20 jam,1083.0,0.4592893334928094
+overtime,Lembur >=20 jam,1085.0,0.4592893334928094
+overtime,Lembur >=20 jam,1087.0,0.4592893334928094
+overtime,Lembur >=20 jam,1088.0,0.4592893334928094
+overtime,Lembur >=20 jam,1089.0,0.4592893334928094
+overtime,Lembur >=20 jam,1090.0,0.4592893334928094
+overtime,Lembur >=20 jam,1092.0,0.4592893334928094
+overtime,Lembur >=20 jam,1095.0,0.4592893334928094

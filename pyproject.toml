@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hr-attrition-analytics"
+version = "1.0.0"
+requires-python = ">=3.12"
+description = "Analisis attrition, survival, dan risiko retensi pada data karyawan simulasi"
+authors = [{name="Immantaka Juniarsa", email="immantakajuniarsa30@gmail.com"}]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 140
+exclude = ["notebooks"]
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
